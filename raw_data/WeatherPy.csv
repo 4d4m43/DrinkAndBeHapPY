@@ -1,4 +1,4 @@
-City,Coundiness,Country,Date,Humidity,Latitude,Longitude,Maximum Temperature,Wind Speed
+City,Cloudiness,Country,Date,Humidity,Latitude,Longitude,Maximum Temperature,Wind Speed
 Sur,0,OM,1547313468,100,22.57,59.53,71.9,13.67
 Bluff,0,AU,1547313392,84,-23.58,149.07,69.15,7.18
 Richards Bay,0,ZA,1547313473,83,-28.77,32.06,72.62,4.94
