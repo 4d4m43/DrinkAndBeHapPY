@@ -1,0 +1,955 @@
+﻿Country Code,Country,Data Source,Beverage Types,2016,2015,2014,2013,2012,2011,2010,avg_total,avg_all
+AF,Afghanistan,Data source,All types,,0.02,0.03,0.03,0.04,0.04,0.03,0.031666667,0.031666667
+AF,Afghanistan,Data source,Beer,,0.01,0.01,0.01,0.01,0.01,0.01,0.01,
+AF,Afghanistan,Data source,Wine,,0,0,0,0,0,0,0,
+AF,Afghanistan,Data source,Spirits,,0.02,0.02,0.02,0.03,0.03,0.02,0.023333333,
+AF,Afghanistan,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+AL,Albania,Data source,All types,5.07,4.77,4.81,5.06,5.43,5.65,5.53,5.188571429,5.188571429
+AL,Albania,Data source,Beer,1.74,1.57,1.58,1.82,1.81,1.88,1.72,1.731428571,
+AL,Albania,Data source,Wine,1.34,1.17,1.12,1.06,1.3,1.27,1.3,1.222857143,
+AL,Albania,Data source,Spirits,1.9,1.94,2.02,2.09,2.22,2.4,2.39,2.137142857,
+AL,Albania,Data source,Other alcoholic beverages,0.09,0.08,0.09,0.09,0.1,0.1,0.12,0.095714286,
+DZ,Algeria,Data source,All types,0.56,0.56,0.56,0.54,0.49,0.44,0.39,0.505714286,0.505714286
+DZ,Algeria,Data source,Beer,0.32,0.31,0.28,0.26,0.23,0.21,0.18,0.255714286,
+DZ,Algeria,Data source,Wine,0.14,0.14,0.18,0.18,0.18,0.17,0.16,0.164285714,
+DZ,Algeria,Data source,Spirits,0.1,0.1,0.1,0.1,0.07,0.06,0.04,0.081428571,
+DZ,Algeria,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+AD,Andorra,Data source,All types,10.06,9.97,9.95,9.78,10.06,10.31,10.64,10.11,10.11
+AD,Andorra,Data source,Beer,3.43,3.33,3.33,3.11,3.26,3.25,3.54,3.321428571,
+AD,Andorra,Data source,Wine,4.22,4.32,4.28,4.33,4.46,4.55,4.38,4.362857143,
+AD,Andorra,Data source,Spirits,2.41,2.32,2.34,2.35,2.35,2.51,2.73,2.43,
+AD,Andorra,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+AO,Angola,Data source,All types,4.7,5.65,9,8.02,8.14,7.86,7.67,7.291428571,7.291428571
+AO,Angola,Data source,Beer,3.3,3.66,5.06,5.02,5.17,4.98,4.75,4.562857143,
+AO,Angola,Data source,Wine,0.83,1.24,2.65,1.93,1.95,1.85,1.83,1.754285714,
+AO,Angola,Data source,Spirits,0.53,0.7,1.21,1.02,0.98,0.98,1.02,0.92,
+AO,Angola,Data source,Other alcoholic beverages,0.04,0.05,0.07,0.06,0.04,0.04,0.08,0.054285714,
+AG,Antigua and Barbuda,Data source,All types,,8.45,8.45,8.5,8.3,7.91,7.81,8.236666667,8.236666667
+AG,Antigua and Barbuda,Data source,Beer,,2.79,2.7,2.74,2.78,2.84,2.87,2.786666667,
+AG,Antigua and Barbuda,Data source,Wine,,1.55,1.81,1.66,1.68,1.51,1.42,1.605,
+AG,Antigua and Barbuda,Data source,Spirits,,3.84,3.66,3.81,3.54,3.27,3.24,3.56,
+AG,Antigua and Barbuda,Data source,Other alcoholic beverages,,0.27,0.29,0.28,0.3,0.29,0.28,0.285,
+AR,Argentina,Data source,All types,,8.42,7.93,8.2,8.35,8.11,8.15,8.193333333,8.193333333
+AR,Argentina,Data source,Beer,,3.36,3.36,3.32,3.21,3.15,3.32,3.286666667,
+AR,Argentina,Data source,Wine,,3.38,3.22,3.48,4.04,4.05,3.91,3.68,
+AR,Argentina,Data source,Spirits,,0.81,0.56,0.52,0.25,0.24,0.45,0.471666667,
+AR,Argentina,Data source,Other alcoholic beverages,,0.87,0.8,0.89,0.85,0.68,0.47,0.76,
+AM,Armenia,Data source,All types,3.77,3.84,3.97,3.72,3.84,4.06,4.23,3.918571429,3.918571429
+AM,Armenia,Data source,Beer,0.4,0.46,0.51,0.42,0.25,0.33,0.39,0.394285714,
+AM,Armenia,Data source,Wine,0.26,0.2,0.13,0.13,0.31,0.39,0.3,0.245714286,
+AM,Armenia,Data source,Spirits,3.1,3.16,3.32,3.17,3.27,3.33,3.52,3.267142857,
+AM,Armenia,Data source,Other alcoholic beverages,0,0,0.01,0.01,0.01,0.01,0.01,0.007142857,
+AU,Australia,Data source,All types,9.71,9.52,9.71,9.87,10.03,10.3,10.52,9.951428571,9.951428571
+AU,Australia,Data source,Beer,3.87,3.76,4.01,4.04,4.14,4.31,4.51,4.091428571,
+AU,Australia,Data source,Wine,3.64,3.66,3.64,3.7,3.78,3.79,3.87,3.725714286,
+AU,Australia,Data source,Spirits,1.25,1.22,1.23,1.29,1.26,1.34,1.3,1.27,
+AU,Australia,Data source,Other alcoholic beverages,0.95,0.88,0.83,0.84,0.85,0.86,0.84,0.864285714,
+AT,Austria,Data source,All types,,11.4,12.2,11.6,12.1,11.9,12.1,11.88333333,11.88333333
+AT,Austria,Data source,Beer,,6.1,6.3,6,6.3,6.1,6.1,6.15,
+AT,Austria,Data source,Wine,,3.6,4.2,3.9,4.1,4.1,4.3,4.033333333,
+AT,Austria,Data source,Spirits,,1.7,1.7,1.7,1.7,1.7,1.7,1.7,
+AT,Austria,Data source,Other alcoholic beverages,,,0,0,0,0,0,0,
+AZ,Azerbaijan,Data source,All types,0.39,0.84,1.95,2.04,1.98,1.94,1.9,1.577142857,1.577142857
+AZ,Azerbaijan,Data source,Beer,0.24,0.3,0.19,0.31,0.29,0.28,0.29,0.271428571,
+AZ,Azerbaijan,Data source,Wine,0.14,0.13,0.15,0.15,0.15,0.15,0.15,0.145714286,
+AZ,Azerbaijan,Data source,Spirits,0,0.4,1.61,1.57,1.53,1.5,1.46,1.152857143,
+AZ,Azerbaijan,Data source,Other alcoholic beverages,0.01,0,0.01,0.01,0.01,0.01,0.01,0.008571429,
+BS,Bahamas,Data source,All types,,8.65,8.62,8.55,8.86,8.94,8.75,8.728333333,8.728333333
+BS,Bahamas,Data source,Beer,,3.39,3.53,3.47,3.41,3.34,3.23,3.395,
+BS,Bahamas,Data source,Wine,,1.44,1.31,1.35,1.61,1.65,1.54,1.483333333,
+BS,Bahamas,Data source,Spirits,,3.56,3.51,3.46,3.56,3.68,3.69,3.576666667,
+BS,Bahamas,Data source,Other alcoholic beverages,,0.26,0.27,0.27,0.27,0.27,0.29,0.271666667,
+BH,Bahrain,Data source,All types,2.08,2.16,2.12,2.12,2.02,1.86,2.1,2.065714286,2.065714286
+BH,Bahrain,Data source,Beer,0.39,0.39,0.38,0.36,0.35,0.34,0.45,0.38,
+BH,Bahrain,Data source,Wine,0.13,0.13,0.12,0.11,0.11,0.12,0.11,0.118571429,
+BH,Bahrain,Data source,Spirits,0.94,1,1.04,1.14,1.22,1.19,1.34,1.124285714,
+BH,Bahrain,Data source,Other alcoholic beverages,0.61,0.64,0.58,0.51,0.34,0.22,0.2,0.442857143,
+BD,Bangladesh,Data source,All types,,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01
+BD,Bangladesh,Data source,Beer,,0,0,0,0,0,0,0,
+BD,Bangladesh,Data source,Wine,,0,0,0,0,0,0,0,
+BD,Bangladesh,Data source,Spirits,,0,0,0,0,0,0,0,
+BD,Bangladesh,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+BB,Barbados,Data source,All types,,9.15,8.97,8.88,8.79,8.49,8.45,8.788333333,8.788333333
+BB,Barbados,Data source,Beer,,3.44,3.48,3.46,3.44,3.37,3.33,3.42,
+BB,Barbados,Data source,Wine,,0.96,0.83,0.89,0.87,0.79,0.9,0.873333333,
+BB,Barbados,Data source,Spirits,,4.58,4.47,4.35,4.28,4.13,4.02,4.305,
+BB,Barbados,Data source,Other alcoholic beverages,,0.17,0.18,0.19,0.2,0.21,0.21,0.193333333,
+BY,Belarus,Data source,All types,10.05,10.09,11.71,12.37,14.14,15.05,13.88,12.47,12.47
+BY,Belarus,Data source,Beer,2.29,2.29,2.48,2.55,2.53,2.6,2.47,2.458571429,
+BY,Belarus,Data source,Wine,0.23,0.21,0.24,0.24,0.24,0.23,0.2,0.227142857,
+BY,Belarus,Data source,Spirits,4.92,4.62,5.21,5.57,7.1,6.9,5.89,5.744285714,
+BY,Belarus,Data source,Other alcoholic beverages,2.61,2.97,3.77,4.01,4.27,5.33,5.31,4.038571429,
+BE,Belgium,Data source,All types,,10.36,10.57,10.33,10.09,10.14,10.27,10.29333333,10.29333333
+BE,Belgium,Data source,Beer,,4.6,4.72,4.6,4.78,4.89,5.03,4.77,
+BE,Belgium,Data source,Wine,,3.97,3.97,3.87,3.72,3.71,3.72,3.826666667,
+BE,Belgium,Data source,Spirits,,1.47,1.47,1.42,1.54,1.49,1.48,1.478333333,
+BE,Belgium,Data source,Other alcoholic beverages,,0.32,0.41,0.44,0.05,0.05,0.05,0.22,
+BZ,Belize,Data source,All types,,6.2,6.17,6.17,6.28,6.26,6.38,6.243333333,6.243333333
+BZ,Belize,Data source,Beer,,4.29,4.18,4.18,4.21,4.26,4.35,4.245,
+BZ,Belize,Data source,Wine,,0.12,0.15,0.17,0.2,0.14,0.13,0.151666667,
+BZ,Belize,Data source,Spirits,,1.65,1.69,1.68,1.72,1.71,1.75,1.7,
+BZ,Belize,Data source,Other alcoholic beverages,,0.14,0.14,0.15,0.16,0.15,0.15,0.148333333,
+BJ,Benin,Data source,All types,,1.55,1.6,1.45,1.42,1.44,1.37,1.471666667,1.471666667
+BJ,Benin,Data source,Beer,,0.99,1,0.88,0.95,0.79,0.67,0.88,
+BJ,Benin,Data source,Wine,,0.15,0.19,0.15,0.13,0.22,0.25,0.181666667,
+BJ,Benin,Data source,Spirits,,0.2,0.2,0.2,0.14,0.16,0.16,0.176666667,
+BJ,Benin,Data source,Other alcoholic beverages,,0.21,0.21,0.21,0.2,0.28,0.29,0.233333333,
+BT,Bhutan,Data source,All types,,,,0.19,0.4,0.18,1.16,0.4825,0.4825
+BT,Bhutan,Data source,Beer,,,,0.09,0.13,0.03,1.06,0.3275,
+BT,Bhutan,Data source,Wine,,,,0.01,0.01,0,0.02,0.01,
+BT,Bhutan,Data source,Spirits,,,,0.1,0.26,0.15,0.08,0.1475,
+BT,Bhutan,Data source,Other alcoholic beverages,,,,0,0,0,0,0,
+BO,Bolivia,Data source,All types,3.57,3.61,3.69,3.73,3.82,3.86,3.9,3.74,3.74
+BO,Bolivia,Data source,Beer,2.6,2.65,2.7,2.69,2.77,2.85,2.97,2.747142857,
+BO,Bolivia,Data source,Wine,0.15,0.15,0.16,0.17,0.22,0.24,0.22,0.187142857,
+BO,Bolivia,Data source,Spirits,0.76,0.76,0.77,0.77,0.75,0.73,0.69,0.747142857,
+BO,Bolivia,Data source,Other alcoholic beverages,0.06,0.06,0.05,0.05,0.04,0.04,0.02,0.045714286,
+BA,Bosnia and Herzegovina,Data source,All types,4.44,4.33,4.34,4.43,4.69,4.65,4.5,4.482857143,4.482857143
+BA,Bosnia and Herzegovina,Data source,Beer,3.37,3.28,3.2,3.28,3.5,3.43,3.33,3.341428571,
+BA,Bosnia and Herzegovina,Data source,Wine,0.38,0.37,0.47,0.47,0.48,0.48,0.44,0.441428571,
+BA,Bosnia and Herzegovina,Data source,Spirits,0.55,0.54,0.53,0.54,0.57,0.61,0.62,0.565714286,
+BA,Bosnia and Herzegovina,Data source,Other alcoholic beverages,0.14,0.14,0.14,0.14,0.13,0.13,0.12,0.134285714,
+BW,Botswana,Data source,All types,,6.22,5.47,4.72,5.13,6,5.61,5.525,5.525
+BW,Botswana,Data source,Beer,,2.99,2.84,2.54,2.2,2.23,2.34,2.523333333,
+BW,Botswana,Data source,Wine,,1.46,0.86,0.41,0.42,0.55,0.71,0.735,
+BW,Botswana,Data source,Spirits,,0.27,0.27,0.27,0.56,1.48,0.63,0.58,
+BW,Botswana,Data source,Other alcoholic beverages,,1.49,1.49,1.49,1.95,1.75,1.94,1.685,
+BR,Brazil,Data source,All types,6.31,6.97,7.17,7.1,7.31,7.43,7.38,7.095714286,7.095714286
+BR,Brazil,Data source,Beer,3.9,4.45,4.53,4.36,4.52,4.4,4.34,4.357142857,
+BR,Brazil,Data source,Wine,0.21,0.25,0.27,0.27,0.25,0.42,0.4,0.295714286,
+BR,Brazil,Data source,Spirits,2.16,2.24,2.33,2.44,2.51,2.58,2.61,2.41,
+BR,Brazil,Data source,Other alcoholic beverages,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.03,
+BN,Brunei Darussalam,Data source,All types,,0.64,0.64,0.64,0.65,0.94,0.87,0.73,0.73
+BN,Brunei Darussalam,Data source,Beer,,0.64,0.64,0.64,0.65,0.85,0.82,0.706666667,
+BN,Brunei Darussalam,Data source,Wine,,0,0,0,0,0.05,0.01,0.01,
+BN,Brunei Darussalam,Data source,Spirits,,0,0,0,0,0.05,0.03,0.013333333,
+BN,Brunei Darussalam,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+BG,Bulgaria,Data source,All types,11.49,11.3,10.67,10.74,11.3,11.05,10.83,11.05428571,11.05428571
+BG,Bulgaria,Data source,Beer,4.45,4.22,4.06,4.26,4.3,4.1,4.01,4.2,
+BG,Bulgaria,Data source,Wine,1.97,1.96,1.74,1.53,1.93,1.72,1.73,1.797142857,
+BG,Bulgaria,Data source,Spirits,4.92,4.99,4.76,4.87,4.98,5.16,5.02,4.957142857,
+BG,Bulgaria,Data source,Other alcoholic beverages,0.14,0.13,0.11,0.09,0.08,0.07,0.07,0.098571429,
+BF,Burkina Faso,Data source,All types,,4.87,4.85,4.63,4.64,4.51,4.65,4.691666667,4.691666667
+BF,Burkina Faso,Data source,Beer,,0.88,0.85,0.67,0.63,0.53,0.46,0.67,
+BF,Burkina Faso,Data source,Wine,,0.13,0.14,0.1,0.1,0.18,0.17,0.136666667,
+BF,Burkina Faso,Data source,Spirits,,0.24,0.24,0.24,0.2,0.13,0.12,0.195,
+BF,Burkina Faso,Data source,Other alcoholic beverages,,3.62,3.62,3.62,3.7,3.67,3.9,3.688333333,
+BI,Burundi,Data source,All types,,,,,,4.16,4.16,4.16,4.16
+BI,Burundi,Data source,Beer,,,,,,1.63,1.59,1.61,
+BI,Burundi,Data source,Wine,,,,,,0,0,0,
+BI,Burundi,Data source,Spirits,,,,,,0,0,0,
+BI,Burundi,Data source,Other alcoholic beverages,,,,,,2.51,2.56,2.535,
+BI,Cabo Verde,Data source,All types,,4.12,3.88,3.53,4.98,5.06,4.73,4.383333333,4.383333333
+BI,Cabo Verde,Data source,Beer,,2.27,2.27,2.27,2.31,2.81,2.51,2.406666667,
+BI,Cabo Verde,Data source,Wine,,1.85,1.62,1.26,1.52,1.55,1.62,1.57,
+BI,Cabo Verde,Data source,Spirits,,0,0,0,1.16,0.7,0.61,0.411666667,
+BI,Cabo Verde,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+KH,Cambodia,Data source,All types,3.5,3.32,3.04,2.78,2.5,2.38,2.14,2.808571429,2.808571429
+KH,Cambodia,Data source,Beer,3.08,2.92,2.63,2.37,2.09,1.98,1.75,2.402857143,
+KH,Cambodia,Data source,Wine,0.02,0,0,0,0,0,0,0.002857143,
+KH,Cambodia,Data source,Spirits,0.39,0.39,0.4,0.41,0.41,0.4,0.39,0.398571429,
+KH,Cambodia,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+CM,Cameroon,Data source,All types,,6.5,6.71,6.67,6.35,6.12,6.17,6.42,6.42
+CM,Cameroon,Data source,Beer,,2.83,3.01,2.98,2.81,2.5,2.53,2.776666667,
+CM,Cameroon,Data source,Wine,,0.09,0.13,0.11,0.11,0.11,0.09,0.106666667,
+CM,Cameroon,Data source,Spirits,,0.01,0.01,0.01,0.02,0,0.01,0.01,
+CM,Cameroon,Data source,Other alcoholic beverages,,3.57,3.57,3.57,3.41,3.51,3.54,3.528333333,
+CA,Canada,Data source,All types,8.2,8,8.1,8.2,8.3,8.2,8.4,8.2,8.2
+CA,Canada,Data source,Beer,3.7,3.7,3.8,3.9,4,4,4.2,3.9,
+CA,Canada,Data source,Wine,2.1,2,2,2,2,1.9,1.9,1.985714286,
+CA,Canada,Data source,Spirits,2.1,2,2,2.1,2.1,2.1,2.1,2.071428571,
+CA,Canada,Data source,Other alcoholic beverages,0.3,0.3,0.3,0.2,0.2,0.2,0.2,0.242857143,
+CF,Central African Republic,Data source,All types,,1.68,1.59,1.46,1.72,1.77,1.82,1.673333333,1.673333333
+CF,Central African Republic,Data source,Beer,,0.43,0.36,0.22,0.31,0.32,0.29,0.321666667,
+CF,Central African Republic,Data source,Wine,,0.01,0,0,0,0.01,0.02,0.006666667,
+CF,Central African Republic,Data source,Spirits,,0,0,0,0,0.02,0.04,0.01,
+CF,Central African Republic,Data source,Other alcoholic beverages,,1.23,1.23,1.23,1.41,1.42,1.48,1.333333333,
+TD,Chad,Data source,All types,,0.69,0.68,0.63,0.63,0.6,0.55,0.63,0.63
+TD,Chad,Data source,Beer,,0.48,0.47,0.42,0.37,0.37,0.32,0.405,
+TD,Chad,Data source,Wine,,0.01,0.01,0.01,0.04,0.05,0.05,0.028333333,
+TD,Chad,Data source,Spirits,,0.04,0.04,0.04,0.04,0.04,0.03,0.038333333,
+TD,Chad,Data source,Other alcoholic beverages,,0.16,0.16,0.16,0.18,0.14,0.15,0.158333333,
+CL,Chile,Data source,All types,,7.89,7.92,7.23,8.35,7.02,7.55,7.66,7.66
+CL,Chile,Data source,Beer,,2.85,2.79,2.67,2.55,2.51,2.35,2.62,
+CL,Chile,Data source,Wine,,2.61,2.85,2.37,2.65,2.51,3.1,2.681666667,
+CL,Chile,Data source,Spirits,,2.43,2.28,2.19,3.15,2,2.1,2.358333333,
+CL,Chile,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+CN,China,Data source,All types,5.74,5.74,5.81,5.81,5.74,5.65,5.75,5.748571429,5.748571429
+CN,China,Data source,Beer,1.7,1.76,1.88,1.9,1.83,1.77,1.67,1.787142857,
+CN,China,Data source,Wine,0.18,0.17,0.16,0.17,0.18,0.21,0.17,0.177142857,
+CN,China,Data source,Spirits,3.86,3.81,3.76,3.73,3.72,3.67,3.98,3.79,
+CN,China,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+CO,Colombia,Data source,All types,4.46,4.43,4.3,4.33,4.35,4.29,4.21,4.338571429,4.338571429
+CO,Colombia,Data source,Beer,3.18,3.13,2.99,2.98,2.99,2.9,2.8,2.995714286,
+CO,Colombia,Data source,Wine,0.05,0.05,0.05,0.05,0.05,0.06,0.07,0.054285714,
+CO,Colombia,Data source,Spirits,1.22,1.23,1.24,1.28,1.29,1.31,1.33,1.271428571,
+CO,Colombia,Data source,Other alcoholic beverages,0.01,0.02,0.02,0.02,0.02,0.02,0.02,0.018571429,
+KM,Comoros,Data source,All types,,,,0.25,0.11,0.12,0.15,0.1575,0.1575
+KM,Comoros,Data source,Beer,,,,0.06,0.03,0.02,0.04,0.0375,
+KM,Comoros,Data source,Wine,,,,0.08,0.04,0.05,0.03,0.05,
+KM,Comoros,Data source,Spirits,,,,0.11,0.04,0.05,0.08,0.07,
+KM,Comoros,Data source,Other alcoholic beverages,,,,0,0,0,0,0,
+KM,Congo,Data source,All types,,4.86,4.93,4.71,4.46,4.34,4.12,4.57,4.57
+KM,Congo,Data source,Beer,,4.1,4.13,3.96,3.88,3.76,3.53,3.893333333,
+KM,Congo,Data source,Wine,,0.23,0.24,0.2,0.01,0.01,0.01,0.116666667,
+KM,Congo,Data source,Spirits,,0.5,0.53,0.53,0.54,0.55,0.56,0.535,
+KM,Congo,Data source,Other alcoholic beverages,,0.03,0.03,0.03,0.02,0.02,0.02,0.025,
+CK,Cook Islands,Data source,All types,,,,15.78,13.67,7.07,13.01,12.3825,12.3825
+CK,Cook Islands,Data source,Beer,,,,5,2.63,2.45,2.1,3.045,
+CK,Cook Islands,Data source,Wine,,,,2.54,2.7,1.49,5.06,2.9475,
+CK,Cook Islands,Data source,Spirits,,,,8.24,8.34,3.12,5.86,6.39,
+CK,Cook Islands,Data source,Other alcoholic beverages,,,,0,0,0,0,0,
+CR,Costa Rica,Data source,All types,3.7,3.63,3.56,3.53,3.43,3.49,3.65,3.57,3.57
+CR,Costa Rica,Data source,Beer,2.38,2.31,2.27,2.24,2.23,2.12,2.11,2.237142857,
+CR,Costa Rica,Data source,Wine,0.27,0.27,0.26,0.23,0.2,0.21,0.19,0.232857143,
+CR,Costa Rica,Data source,Spirits,1.03,1.02,1,1.02,0.96,1.12,1.31,1.065714286,
+CR,Costa Rica,Data source,Other alcoholic beverages,0.03,0.03,0.04,0.04,0.04,0.04,0.04,0.037142857,
+IT,Ivory Coast,Data source,All types,,4.79,4.67,4.56,4.69,4.61,4.77,4.681666667,4.681666667
+IT,Ivory Coast,Data source,Beer,,1.05,0.93,0.8,0.79,0.72,0.7,0.831666667,
+IT,Ivory Coast,Data source,Wine,,0.24,0.25,0.27,0.27,0.27,0.27,0.261666667,
+IT,Ivory Coast,Data source,Spirits,,0.01,0.01,0.01,0.05,0.02,0.02,0.02,
+IT,Ivory Coast,Data source,Other alcoholic beverages,,3.49,3.49,3.49,3.59,3.59,3.78,3.571666667,
+HR,Croatia,Data source,All types,10.32,9.89,10.64,11.64,11.92,12.43,12.11,11.27857143,11.27857143
+HR,Croatia,Data source,Beer,4.59,4.5,4.26,4.62,4.57,4.74,4.5,4.54,
+HR,Croatia,Data source,Wine,4.03,3.68,4.67,5.36,5.7,6.05,5.99,5.068571429,
+HR,Croatia,Data source,Spirits,1.34,1.34,1.33,1.28,1.25,1.21,1.2,1.278571429,
+HR,Croatia,Data source,Other alcoholic beverages,0.36,0.36,0.37,0.37,0.4,0.43,0.43,0.388571429,
+CU,Cuba,Data source,All types,4.59,4.6,4.48,4.32,4.15,4.15,4.1,4.341428571,4.341428571
+CU,Cuba,Data source,Beer,1.71,1.78,1.73,1.69,1.65,1.63,1.61,1.685714286,
+CU,Cuba,Data source,Wine,0.23,0.23,0.23,0.23,0.08,0.08,0.06,0.162857143,
+CU,Cuba,Data source,Spirits,2.63,2.57,2.51,2.38,2.4,2.43,2.42,2.477142857,
+CU,Cuba,Data source,Other alcoholic beverages,0.02,0.02,0.01,0.02,0.02,0.02,0.02,0.018571429,
+NF,Northern Cyprus,Data source,All types,,9.55,9.59,9.04,10.56,10.7,11.32,10.12666667,10.12666667
+NF,Northern Cyprus,Data source,Beer,,2.84,3.21,3.3,3.48,3.53,3.78,3.356666667,
+NF,Northern Cyprus,Data source,Wine,,2.71,2.78,2.48,2.61,2.56,2.67,2.635,
+NF,Northern Cyprus,Data source,Spirits,,4,3.6,3.25,4.47,4.61,4.86,4.131666667,
+NF,Northern Cyprus,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+CZ,Czech Republic,Data source,All types,12.99,12.82,13.06,12.84,12.97,12.61,12.65,12.84857143,12.84857143
+CZ,Czech Republic,Data source,Beer,6.92,6.9,7.15,7.15,7.15,6.79,6.79,6.978571429,
+CZ,Czech Republic,Data source,Wine,2.77,2.67,2.7,2.6,2.65,2.58,2.58,2.65,
+CZ,Czech Republic,Data source,Spirits,3.3,3.25,3.21,3.09,3.17,3.25,3.28,3.221428571,
+CZ,Czech Republic,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+CZ,Democratic People's Republic of Korea,Data source,All types,,3.35,3.35,3.35,3.61,3.39,3.12,3.361666667,3.361666667
+CZ,Democratic People's Republic of Korea,Data source,Beer,,0.09,0.09,0.09,0.09,0.15,0.16,0.111666667,
+CZ,Democratic People's Republic of Korea,Data source,Wine,,0,0,0,0,0,0,0,
+CZ,Democratic People's Republic of Korea,Data source,Spirits,,3.26,3.26,3.26,3.52,3.24,2.96,3.25,
+CZ,Democratic People's Republic of Korea,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+CZ,Democratic Republic of the Congo,Data source,All types,,1.39,1.58,1.62,1.72,1.65,1.67,1.605,1.605
+CZ,Democratic Republic of the Congo,Data source,Beer,,0.54,0.73,0.77,0.68,0.66,0.59,0.661666667,
+CZ,Democratic Republic of the Congo,Data source,Wine,,0.01,0.01,0.01,0.2,0.15,0.23,0.101666667,
+CZ,Democratic Republic of the Congo,Data source,Spirits,,0.01,0.01,0.01,0.01,0.01,0.04,0.015,
+CZ,Democratic Republic of the Congo,Data source,Other alcoholic beverages,,0.83,0.83,0.83,0.83,0.83,0.81,0.826666667,
+DK,Denmark,Data source,All types,9.55,9.38,9.53,9.43,9.1,10.22,10.24,9.635714286,9.635714286
+DK,Denmark,Data source,Beer,3.57,3.49,3.62,3.51,3.52,3.77,3.9,3.625714286,
+DK,Denmark,Data source,Wine,4.27,4.21,4.34,4.35,4.13,4.99,4.88,4.452857143,
+DK,Denmark,Data source,Spirits,1.63,1.68,1.57,1.57,1.46,1.46,1.46,1.547142857,
+DK,Denmark,Data source,Other alcoholic beverages,0.08,0,0,0,0,0,0,0.011428571,
+DJ,Djibouti,Data source,All types,0.36,0.37,0.34,0.52,0.47,0.51,0.5,0.438571429,0.438571429
+DJ,Djibouti,Data source,Beer,0.1,0.1,0.08,0.11,0.12,0.2,0.21,0.131428571,
+DJ,Djibouti,Data source,Wine,0.06,0.06,0.03,0.17,0.12,0.08,0.05,0.081428571,
+DJ,Djibouti,Data source,Spirits,0.2,0.2,0.23,0.23,0.22,0.22,0.23,0.218571429,
+DJ,Djibouti,Data source,Other alcoholic beverages,0,0,0,0.01,0.01,0.01,0.01,0.005714286,
+DM,Dominica,Data source,All types,,,,8.41,8.48,5.46,7.45,7.45,7.45
+DM,Dominica,Data source,Beer,,,,0.93,0.94,0.11,0.48,0.615,
+DM,Dominica,Data source,Wine,,,,0,0,0.48,0.74,0.305,
+DM,Dominica,Data source,Spirits,,,,7.47,7.54,4.79,6.16,6.49,
+DM,Dominica,Data source,Other alcoholic beverages,,,,0,0,0.09,0.08,0.0425,
+DO,Dominican Republic,Data source,All types,5.5,6.14,6.02,6.03,6.02,6.01,6.12,5.977142857,5.977142857
+DO,Dominican Republic,Data source,Beer,2.87,3.49,3.41,3.33,3.29,3.25,3.27,3.272857143,
+DO,Dominican Republic,Data source,Wine,0.24,0.24,0.22,0.2,0.19,0.18,0.16,0.204285714,
+DO,Dominican Republic,Data source,Spirits,2.31,2.34,2.33,2.43,2.48,2.5,2.61,2.428571429,
+DO,Dominican Republic,Data source,Other alcoholic beverages,0.08,0.07,0.06,0.07,0.07,0.07,0.07,0.07,
+EC,Ecuador,Data source,All types,3.17,3.67,3.8,3.78,3.92,4,3.96,3.757142857,3.757142857
+EC,Ecuador,Data source,Beer,2.53,3,3,2.96,2.88,2.78,2.68,2.832857143,
+EC,Ecuador,Data source,Wine,0.05,0.05,0.06,0.05,0.06,0.05,0.05,0.052857143,
+EC,Ecuador,Data source,Spirits,0.56,0.6,0.72,0.75,0.96,1.15,1.21,0.85,
+EC,Ecuador,Data source,Other alcoholic beverages,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,
+EG,Egypt,Data source,All types,0.18,0.18,0.2,0.2,0.2,0.2,0.21,0.195714286,0.195714286
+EG,Egypt,Data source,Beer,0.11,0.11,0.11,0.11,0.11,0.11,0.11,0.11,
+EG,Egypt,Data source,Wine,0.01,0.01,0.02,0.02,0.02,0.02,0.02,0.017142857,
+EG,Egypt,Data source,Spirits,0.06,0.06,0.07,0.06,0.07,0.06,0.07,0.064285714,
+EG,Egypt,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+SV,El Salvador,Data source,All types,2.68,2.57,2.47,2.36,2.42,2.31,2.29,2.442857143,2.442857143
+SV,El Salvador,Data source,Beer,1.28,1.17,1.08,1.05,1.01,0.94,0.92,1.064285714,
+SV,El Salvador,Data source,Wine,0.04,0.04,0.04,0.04,0.03,0.04,0.04,0.038571429,
+SV,El Salvador,Data source,Spirits,1.36,1.35,1.35,1.27,1.38,1.33,1.33,1.338571429,
+SV,El Salvador,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+GQ,Equatorial Guinea,Data source,All types,,9.85,10.23,10.16,11.65,10.78,9.76,10.405,10.405
+GQ,Equatorial Guinea,Data source,Beer,,8.17,8.39,8.67,7.82,7.21,6.05,7.718333333,
+GQ,Equatorial Guinea,Data source,Wine,,1.68,1.85,1.49,3.83,3.56,3.71,2.686666667,
+GQ,Equatorial Guinea,Data source,Spirits,,0,0,0,0,0,0,0,
+GQ,Equatorial Guinea,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+ER,Eritrea,Data source,All types,,,,,,0.62,0.61,0.615,0.615
+ER,Eritrea,Data source,Beer,,,,,,0.38,0.4,0.39,
+ER,Eritrea,Data source,Wine,,,,,,0,0,0,
+ER,Eritrea,Data source,Spirits,,,,,,0,0,0,
+ER,Eritrea,Data source,Other alcoholic beverages,,,,,,0.23,0.21,0.22,
+EE,Estonia,Data source,All types,15.35,16.64,17.29,17.75,16.96,16.27,14.97,16.46142857,16.46142857
+EE,Estonia,Data source,Beer,5.02,5.44,5.66,5.8,5.55,5.32,4.9,5.384285714,
+EE,Estonia,Data source,Wine,1.14,1.23,1.28,1.31,1.26,1.2,1.11,1.218571429,
+EE,Estonia,Data source,Spirits,7.72,8.37,8.7,8.93,8.53,8.18,7.53,8.28,
+EE,Estonia,Data source,Other alcoholic beverages,1.47,1.6,1.65,1.71,1.62,1.57,1.43,1.578571429,
+EE,Eswatini,Data source,All types,,7.38,7.46,6.53,5.54,5.95,5.65,6.418333333,6.418333333
+EE,Eswatini,Data source,Beer,,1.81,1.71,1.79,1.54,1.63,1.65,1.688333333,
+EE,Eswatini,Data source,Wine,,1.19,1.37,0.37,0.06,0.06,0.05,0.516666667,
+EE,Eswatini,Data source,Spirits,,0,0,0,0,0.13,0.02,0.025,
+EE,Eswatini,Data source,Other alcoholic beverages,,4.37,4.37,4.37,3.94,4.12,3.93,4.183333333,
+ET,Ethiopia,Data source,All types,,1.43,1.43,1.43,1.4,0.86,0.88,1.238333333,1.238333333
+ET,Ethiopia,Data source,Beer,,0.78,0.78,0.78,0.78,0.35,0.36,0.638333333,
+ET,Ethiopia,Data source,Wine,,0,0,0,0,0,0,0,
+ET,Ethiopia,Data source,Spirits,,0.12,0.12,0.12,0.12,0.05,0.06,0.098333333,
+ET,Ethiopia,Data source,Other alcoholic beverages,,0.53,0.53,0.53,0.5,0.46,0.46,0.501666667,
+FJ,Fiji,Data source,All types,,2.21,2.32,2.3,2.24,2.13,2.25,2.241666667,2.241666667
+FJ,Fiji,Data source,Beer,,1.54,1.66,1.64,1.57,1.49,1.35,1.541666667,
+FJ,Fiji,Data source,Wine,,0.03,0.03,0.03,0.03,0.02,0.02,0.026666667,
+FJ,Fiji,Data source,Spirits,,0.64,0.64,0.64,0.64,0.62,0.88,0.676666667,
+FJ,Fiji,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+FI,Finland,Data source,All types,8.43,8.51,8.75,9.07,9.27,9.81,9.72,9.08,9.08
+FI,Finland,Data source,Beer,4.11,4.13,4.17,4.28,4.27,4.61,4.47,4.291428571,
+FI,Finland,Data source,Wine,1.74,1.75,1.8,1.84,1.89,1.74,1.7,1.78,
+FI,Finland,Data source,Spirits,1.81,1.84,1.92,2.03,2.15,2.25,2.33,2.047142857,
+FI,Finland,Data source,Other alcoholic beverages,0.77,0.79,0.86,0.92,0.96,1.21,1.22,0.961428571,
+FR,France,Data source,All types,11.74,11.87,11.97,11.64,12.24,12.37,12.33,12.02285714,12.02285714
+FR,France,Data source,Beer,2.21,2.16,2.26,1.8,2.15,2.1,2.18,2.122857143,
+FR,France,Data source,Wine,6.9,7.09,7.04,7.13,7.33,7.41,7.27,7.167142857,
+FR,France,Data source,Spirits,2.43,2.42,2.47,2.5,2.54,2.64,2.65,2.521428571,
+FR,France,Data source,Other alcoholic beverages,0.2,0.2,0.2,0.21,0.22,0.22,0.23,0.211428571,
+GA,Gabon,Data source,All types,,9.54,9.54,8.7,8.27,8.65,8.86,8.926666667,8.926666667
+GA,Gabon,Data source,Beer,,7.28,7.25,6.2,5.81,5.78,5.94,6.376666667,
+GA,Gabon,Data source,Wine,,0.88,0.83,0.92,0.91,1.11,1.16,0.968333333,
+GA,Gabon,Data source,Spirits,,1.27,1.35,1.45,1.44,1.69,1.7,1.483333333,
+GA,Gabon,Data source,Other alcoholic beverages,,0.1,0.11,0.12,0.11,0.07,0.06,0.095,
+GM,Gambia,Data source,All types,,2.96,2.94,2.89,2.97,2.92,3.06,2.956666667,2.956666667
+GM,Gambia,Data source,Beer,,0.25,0.25,0.22,0.21,0.17,0.17,0.211666667,
+GM,Gambia,Data source,Wine,,0.06,0.04,0.02,0.02,0.02,0.02,0.03,
+GM,Gambia,Data source,Spirits,,0,0,0,0,0.01,0.01,0.003333333,
+GM,Gambia,Data source,Other alcoholic beverages,,2.65,2.65,2.65,2.74,2.72,2.86,2.711666667,
+GE,Georgia,Data source,All types,7.44,7.44,7.23,7.06,7.59,8.68,8.1,7.648571429,7.648571429
+GE,Georgia,Data source,Beer,1.37,1.37,1.36,1.35,1.26,1.91,1.4,1.431428571,
+GE,Georgia,Data source,Wine,3.2,3.1,2.86,2.72,3.31,3.85,3.81,3.264285714,
+GE,Georgia,Data source,Spirits,2.86,2.97,3.01,2.98,3.02,2.92,2.89,2.95,
+GE,Georgia,Data source,Other alcoholic beverages,0.01,0.01,0.01,0.01,0.01,0,0,0.007142857,
+DE,Germany,Data source,All types,10.9,11.99,11.6,11.67,11.76,11.87,11.35,11.59142857,11.59142857
+DE,Germany,Data source,Beer,5.74,5.66,5.71,5.71,5.83,5.98,5.91,5.791428571,
+DE,Germany,Data source,Wine,3.1,3.84,3.41,3.55,3.47,3.46,3.29,3.445714286,
+DE,Germany,Data source,Spirits,2.07,2.49,2.48,2.41,2.46,2.43,2.15,2.355714286,
+DE,Germany,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+GH,Ghana,Data source,All types,,1.56,1.56,1.6,1.79,1.86,1.94,1.718333333,1.718333333
+GH,Ghana,Data source,Beer,,0.44,0.46,0.43,0.44,0.48,0.48,0.455,
+GH,Ghana,Data source,Wine,,0.1,0.09,0.15,0.24,0.21,0.17,0.16,
+GH,Ghana,Data source,Spirits,,0.13,0.13,0.13,0.1,0.11,0.04,0.106666667,
+GH,Ghana,Data source,Other alcoholic beverages,,0.89,0.89,0.89,1.01,1.06,1.24,0.996666667,
+GR,Greece,Data source,All types,6.52,6.64,6.99,7.52,7.62,8.03,8.99,7.472857143,7.472857143
+GR,Greece,Data source,Beer,2.05,2.04,2.09,2.12,2.11,2.1,2.24,2.107142857,
+GR,Greece,Data source,Wine,2.96,3.08,3.32,3.81,3.92,4.21,4.78,3.725714286,
+GR,Greece,Data source,Spirits,1.42,1.44,1.5,1.5,1.49,1.62,1.84,1.544285714,
+GR,Greece,Data source,Other alcoholic beverages,0.08,0.08,0.09,0.09,0.09,0.1,0.13,0.094285714,
+GD,Grenada,Data source,All types,8.88,8.67,8.47,8.37,8.28,8.11,8.18,8.422857143,8.422857143
+GD,Grenada,Data source,Beer,3.63,3.57,3.56,3.58,3.57,3.55,3.55,3.572857143,
+GD,Grenada,Data source,Wine,0.62,0.62,0.6,0.5,0.42,0.37,0.43,0.508571429,
+GD,Grenada,Data source,Spirits,4.29,4.16,4.01,4.05,4.09,3.99,3.99,4.082857143,
+GD,Grenada,Data source,Other alcoholic beverages,0.34,0.33,0.29,0.24,0.2,0.2,0.2,0.257142857,
+GT,Guatemala,Data source,All types,1.62,1.62,1.65,1.81,1.9,2.02,1.99,1.801428571,1.801428571
+GT,Guatemala,Data source,Beer,0.91,0.9,0.94,0.92,0.93,0.85,0.82,0.895714286,
+GT,Guatemala,Data source,Wine,0.03,0.04,0.04,0.04,0.04,0.03,0.03,0.035714286,
+GT,Guatemala,Data source,Spirits,0.67,0.67,0.67,0.85,0.93,1.13,1.14,0.865714286,
+GT,Guatemala,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+GN,Guinea,Data source,All types,,0.34,0.28,0.22,0.22,0.22,0.2,0.246666667,0.246666667
+GN,Guinea,Data source,Beer,,0.31,0.26,0.2,0.19,0.18,0.15,0.215,
+GN,Guinea,Data source,Wine,,0.03,0.03,0.03,0.03,0.02,0.03,0.028333333,
+GN,Guinea,Data source,Spirits,,0,0,0,0,0.01,0.01,0.003333333,
+GN,Guinea,Data source,Other alcoholic beverages,,0,0,0,0,0.01,0.01,0.003333333,
+GW,Guinea-Bissau,Data source,All types,,2.81,2.8,2.69,2.83,2.96,2.83,2.82,2.82
+GW,Guinea-Bissau,Data source,Beer,,0.39,0.39,0.39,0.45,0.49,0.43,0.423333333,
+GW,Guinea-Bissau,Data source,Wine,,0.88,0.86,0.76,0.89,0.89,0.69,0.828333333,
+GW,Guinea-Bissau,Data source,Spirits,,0.39,0.39,0.39,0.4,0.51,0.52,0.433333333,
+GW,Guinea-Bissau,Data source,Other alcoholic beverages,,1.16,1.16,1.16,1.09,1.07,1.2,1.14,
+GY,Guyana,Data source,All types,5.31,4.75,5.2,5.11,5.13,5.11,5.08,5.098571429,5.098571429
+GY,Guyana,Data source,Beer,2.57,1.86,1.86,1.84,1.81,1.75,1.71,1.914285714,
+GY,Guyana,Data source,Wine,0.01,0.02,0.02,0.02,0.02,0.03,0.02,0.02,
+GY,Guyana,Data source,Spirits,2.7,2.85,3.29,3.21,3.27,3.3,3.32,3.134285714,
+GY,Guyana,Data source,Other alcoholic beverages,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.03,
+HT,Haiti,Data source,All types,,5.81,5.81,5.81,5.81,5.71,5.77,5.786666667,5.786666667
+HT,Haiti,Data source,Beer,,0.13,0.13,0.13,0.13,0.12,0.11,0.125,
+HT,Haiti,Data source,Wine,,0.02,0.02,0.02,0.02,0.01,0.01,0.016666667,
+HT,Haiti,Data source,Spirits,,5.65,5.65,5.65,5.65,5.57,5.65,5.636666667,
+HT,Haiti,Data source,Other alcoholic beverages,,0.01,0.01,0.01,0.01,0.01,0.01,0.01,
+HN,Honduras,Data source,All types,2.86,2.84,2.64,2.92,2.92,2.94,2.91,2.861428571,2.861428571
+HN,Honduras,Data source,Beer,1.33,1.33,1.24,1.24,1.23,1.21,1.16,1.248571429,
+HN,Honduras,Data source,Wine,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.03,
+HN,Honduras,Data source,Spirits,1.49,1.47,1.37,1.65,1.67,1.69,1.71,1.578571429,
+HN,Honduras,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+HU,Hungary,Data source,All types,,10.9,10.88,10.7,11.14,11.35,10.75,10.95333333,10.95333333
+HU,Hungary,Data source,Beer,,3.93,3.9,3.77,4.06,4.04,3.91,3.935,
+HU,Hungary,Data source,Wine,,3.41,2.9,3.2,3.2,3.49,3.16,3.226666667,
+HU,Hungary,Data source,Spirits,,3.57,4.08,3.73,3.88,3.82,3.68,3.793333333,
+HU,Hungary,Data source,Other alcoholic beverages,,,,0,0,0,0,0,
+IS,Iceland,Data source,All types,7.5,7.66,7.01,6.8,6.82,6.84,6.79,7.06,7.06
+IS,Iceland,Data source,Beer,4.24,4.26,3.87,3.74,3.78,3.68,3.71,3.897142857,
+IS,Iceland,Data source,Wine,2.09,2.15,2.02,1.96,1.95,1.9,1.87,1.991428571,
+IS,Iceland,Data source,Spirits,1.16,1.25,1.13,1.1,1.1,1.26,1.21,1.172857143,
+IN,India,Data source,All types,3.04,3,3.02,3.05,3.06,2.96,2.74,2.981428571,2.981428571
+IN,India,Data source,Beer,0.23,0.21,0.2,0.2,0.19,0.18,0.17,0.197142857,
+IN,India,Data source,Wine,0,0,0,0,0,0,0,0,
+IN,India,Data source,Spirits,2.81,2.79,2.81,2.85,2.87,2.79,2.57,2.784285714,
+IN,India,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+ID,Indonesia,Data source,All types,0.29,0.28,0.28,0.28,0.1,0.09,0.09,0.201428571,0.201428571
+ID,Indonesia,Data source,Beer,0.05,0.05,0.07,0.09,0.08,0.08,0.08,0.071428571,
+ID,Indonesia,Data source,Wine,0.22,0.22,0.19,0.18,0,0,0,0.115714286,
+ID,Indonesia,Data source,Spirits,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,
+ID,Indonesia,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+ID,Iran,Data source,All types,,0.01,0.01,0.01,0.02,0.03,0.03,0.018333333,0.018333333
+ID,Iran,Data source,Beer,,0,0,0,0,0,0,0,
+ID,Iran,Data source,Wine,,0,0,0,0,0,0,0,
+ID,Iran,Data source,Spirits,,0.01,0.01,0.01,0.02,0.03,0.03,0.018333333,
+ID,Iran,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+IQ,Iraq,Data source,All types,,0.17,0.17,0.17,0.19,0.18,0.19,0.178333333,0.178333333
+IQ,Iraq,Data source,Beer,,0.12,0.12,0.12,0.14,0.12,0.14,0.126666667,
+IQ,Iraq,Data source,Wine,,0,0,0,0,0,0,0,
+IQ,Iraq,Data source,Spirits,,0.04,0.04,0.04,0.05,0.05,0.04,0.043333333,
+IQ,Iraq,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+IE,Ireland,Data source,All types,11.46,10.93,11,10.64,11.53,11.65,11.63,11.26285714,11.26285714
+IE,Ireland,Data source,Beer,5.39,5.14,5.17,5,5.42,5.48,5.47,5.295714286,
+IE,Ireland,Data source,Wine,3.21,3.06,3.08,2.98,3.23,3.26,3.26,3.154285714,
+IE,Ireland,Data source,Spirits,2.15,1.97,1.98,1.92,2.08,2.1,2.09,2.041428571,
+IE,Ireland,Data source,Other alcoholic beverages,0.71,0.77,0.77,0.74,0.81,0.82,0.81,0.775714286,
+IL,Israel,Data source,All types,2.64,2.61,2.71,2.86,2.81,2.66,2.63,2.702857143,2.702857143
+IL,Israel,Data source,Beer,1.44,1.41,1.39,1.36,1.28,1.21,1.15,1.32,
+IL,Israel,Data source,Wine,0.12,0.11,0.23,0.23,0.23,0.18,0.18,0.182857143,
+IL,Israel,Data source,Spirits,1.05,1.05,1.05,1.21,1.25,1.22,1.24,1.152857143,
+IL,Israel,Data source,Other alcoholic beverages,0.04,0.04,0.04,0.05,0.05,0.05,0.06,0.047142857,
+IT,Italy,Data source,All types,7.08,7.14,7.56,7.35,7.48,6.98,6.95,7.22,7.22
+IT,Italy,Data source,Beer,1.8,1.78,1.73,1.7,1.7,1.69,1.66,1.722857143,
+IT,Italy,Data source,Wine,4.58,4.61,4.97,4.86,4.99,4.45,4.45,4.701428571,
+IT,Italy,Data source,Spirits,0.69,0.74,0.86,0.79,0.79,0.84,0.84,0.792857143,
+IT,Italy,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+JM,Jamaica,Data source,All types,3.44,3.33,3.28,3.27,3.15,3.09,3.06,3.231428571,3.231428571
+JM,Jamaica,Data source,Beer,1.25,1.16,1.09,1.06,1.03,1.03,1.01,1.09,
+JM,Jamaica,Data source,Wine,0.17,0.17,0.16,0.16,0.15,0.13,0.17,0.158571429,
+JM,Jamaica,Data source,Spirits,1.87,1.82,1.86,1.9,1.83,1.8,1.75,1.832857143,
+JM,Jamaica,Data source,Other alcoholic beverages,0.16,0.19,0.17,0.15,0.14,0.13,0.14,0.154285714,
+JP,Japan,Data source,All types,,6.86,6.71,6.95,6.83,6.86,6.88,6.848333333,6.848333333
+JP,Japan,Data source,Beer,,1.25,1.22,1.28,1.27,1.29,1.32,1.271666667,
+JP,Japan,Data source,Wine,,0.38,0.37,0.36,0.34,0.3,0.28,0.338333333,
+JP,Japan,Data source,Spirits,,2.74,2.64,2.7,2.63,2.64,2.63,2.663333333,
+JP,Japan,Data source,Other alcoholic beverages,,2.49,2.48,2.62,2.59,2.63,2.65,2.576666667,
+JO,Jordan,Data source,All types,0.38,0.37,0.43,0.41,0.43,0.44,0.52,0.425714286,0.425714286
+JO,Jordan,Data source,Beer,0.07,0.07,0.07,0.05,0.05,0.04,0.1,0.064285714,
+JO,Jordan,Data source,Wine,0.01,0.01,0.01,0.01,0.02,0.02,0.02,0.014285714,
+JO,Jordan,Data source,Spirits,0.29,0.29,0.34,0.34,0.35,0.37,0.39,0.338571429,
+JO,Jordan,Data source,Other alcoholic beverages,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,
+KZ,Kazakhstan,Data source,All types,5.8,5.92,6.06,6.26,6.48,6.35,6.59,6.208571429,6.208571429
+KZ,Kazakhstan,Data source,Beer,1.77,1.78,1.79,1.92,1.98,1.86,2.04,1.877142857,
+KZ,Kazakhstan,Data source,Wine,0.38,0.38,0.37,0.37,0.37,0.35,0.35,0.367142857,
+KZ,Kazakhstan,Data source,Spirits,3.65,3.76,3.89,3.97,4.14,4.14,4.21,3.965714286,
+KZ,Kazakhstan,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+KE,Kenya,Data source,All types,,1.86,1.77,2.06,1.96,1.95,1.84,1.906666667,1.906666667
+KE,Kenya,Data source,Beer,,0.74,0.64,0.93,0.96,0.93,0.97,0.861666667,
+KE,Kenya,Data source,Wine,,0.03,0.03,0.04,0.03,0.04,0.03,0.033333333,
+KE,Kenya,Data source,Spirits,,0.4,0.4,0.4,0.44,0.45,0.41,0.416666667,
+KE,Kenya,Data source,Other alcoholic beverages,,0.69,0.69,0.69,0.53,0.54,0.43,0.595,
+KI,Kiribati,Data source,All types,,0.36,0.36,0.36,0.37,0.55,0.49,0.415,0.415
+KI,Kiribati,Data source,Beer,,0.36,0.36,0.36,0.37,0.44,0.46,0.391666667,
+KI,Kiribati,Data source,Wine,,0,0,0,0,0.03,0.04,0.011666667,
+KI,Kiribati,Data source,Spirits,,0,0,0,0,0.08,0,0.013333333,
+KI,Kiribati,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+KW,Kuwait,Data source,All types,,0.01,0.01,0.01,0.01,0.02,0.01,0.011666667,0.011666667
+KW,Kuwait,Data source,Beer,,0,0,0,0,0.01,0,0.001666667,
+KW,Kuwait,Data source,Wine,,0,0,0,0,0,0,0,
+KW,Kuwait,Data source,Spirits,,0.01,0.01,0.01,0.01,0.01,0.01,0.01,
+KW,Kuwait,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+KG,Kyrgyzstan,Data source,All types,3.91,4.7,5.59,5.72,5.83,6.02,6.08,5.407142857,5.407142857
+KG,Kyrgyzstan,Data source,Beer,0.45,0.59,0.57,0.55,0.55,0.58,0.53,0.545714286,
+KG,Kyrgyzstan,Data source,Wine,0.08,0.09,0.12,0.12,0.12,0.12,0.12,0.11,
+KG,Kyrgyzstan,Data source,Spirits,3.37,4.02,4.89,5.05,5.15,5.32,5.43,4.747142857,
+KG,Kyrgyzstan,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+LA,Laos,Data source,All types,,6.81,6.63,6.41,6.31,6.29,6.09,6.423333333,6.423333333
+LA,Laos,Data source,Beer,,3.41,3.23,3.02,2.83,2.63,2.45,2.928333333,
+LA,Laos,Data source,Wine,,0,0,0,0,0,0,0,
+LA,Laos,Data source,Spirits,,3.39,3.39,3.39,3.48,3.66,3.65,3.493333333,
+LA,Laos,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+LV,Latvia,Data source,All types,11.19,10.82,10.6,10.43,10.2,10.11,9.83,10.45428571,10.45428571
+LV,Latvia,Data source,Beer,4.79,4.8,4.8,4.7,4.67,4.86,4.61,4.747142857,
+LV,Latvia,Data source,Wine,1.24,1.24,1.2,1.1,1.16,1.13,1.05,1.16,
+LV,Latvia,Data source,Spirits,4.48,4.13,4,3.99,3.77,3.57,3.64,3.94,
+LV,Latvia,Data source,Other alcoholic beverages,0.68,0.65,0.6,0.64,0.6,0.55,0.53,0.607142857,
+LB,Lebanon,Data source,All types,1.21,1.18,1.36,1.34,1.42,1.47,1.56,1.362857143,1.362857143
+LB,Lebanon,Data source,Beer,0.41,0.38,0.37,0.3,0.32,0.35,0.41,0.362857143,
+LB,Lebanon,Data source,Wine,0.19,0.19,0.33,0.33,0.33,0.28,0.28,0.275714286,
+LB,Lebanon,Data source,Spirits,0.6,0.59,0.64,0.69,0.75,0.82,0.85,0.705714286,
+LB,Lebanon,Data source,Other alcoholic beverages,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,
+LS,Lesotho,Data source,All types,,2.88,2.66,2.64,2.51,2.45,2.86,2.666666667,2.666666667
+LS,Lesotho,Data source,Beer,,1.65,1.44,1.41,1.43,1.5,1.49,1.486666667,
+LS,Lesotho,Data source,Wine,,0.09,0.09,0.09,0,0.01,0.01,0.048333333,
+LS,Lesotho,Data source,Spirits,,0.3,0.3,0.3,0.62,0.6,0.61,0.455,
+LS,Lesotho,Data source,Other alcoholic beverages,,0.83,0.83,0.83,0.46,0.35,0.76,0.676666667,
+LR,Liberia,Data source,All types,,3.51,3.47,3.72,3.75,3.74,3.63,3.636666667,3.636666667
+LR,Liberia,Data source,Beer,,0.33,0.31,0.56,0.53,0.49,0.33,0.425,
+LR,Liberia,Data source,Wine,,0.06,0.03,0.05,0.03,0.05,0.03,0.041666667,
+LR,Liberia,Data source,Spirits,,3.1,3.1,3.1,3.19,3.18,3.28,3.158333333,
+LR,Liberia,Data source,Other alcoholic beverages,,0.02,0.02,0.02,0,0.02,0,0.013333333,
+LY,Libya,Data source,All types,,,,0,0.01,0,0,0.0025,0.0025
+LY,Libya,Data source,Beer,,,,0,0,0,0,0,
+LY,Libya,Data source,Wine,,,,0,0,0,0,0,
+LY,Libya,Data source,Spirits,,,,0,0.01,0,0,0.0025,
+LY,Libya,Data source,Other alcoholic beverages,,,,0,0,0,0,0,
+LT,Lithuania,Data source,All types,13.61,14.42,14.82,15.14,15.15,14.88,13.61,14.51857143,14.51857143
+LT,Lithuania,Data source,Beer,5.93,6.28,6.45,6.71,6.6,6.48,5.93,6.34,
+LT,Lithuania,Data source,Wine,0.99,1.03,1.08,1.1,1.1,1.08,0.99,1.052857143,
+LT,Lithuania,Data source,Spirits,5.05,5.35,5.5,5.62,5.62,5.52,5.05,5.387142857,
+LT,Lithuania,Data source,Other alcoholic beverages,1.65,1.76,1.79,1.72,1.83,1.8,1.65,1.742857143,
+LU,Luxembourg,Data source,All types,11.22,11.83,11.69,11.55,11.89,12.01,11.72,11.70142857,11.70142857
+LU,Luxembourg,Data source,Beer,3.97,3.91,3.99,3.76,3.99,4.04,4.05,3.958571429,
+LU,Luxembourg,Data source,Wine,5,5.47,5.23,5.34,5.4,5.44,5.28,5.308571429,
+LU,Luxembourg,Data source,Spirits,2.25,2.46,2.48,2.46,2.5,2.54,2.4,2.441428571,
+LU,Luxembourg,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+MG,Madagascar,Data source,All types,0.89,0.87,0.88,0.87,0.93,0.97,1.03,0.92,0.92
+MG,Madagascar,Data source,Beer,0.48,0.46,0.44,0.42,0.45,0.5,0.53,0.468571429,
+MG,Madagascar,Data source,Wine,0.07,0.08,0.1,0.11,0.17,0.17,0.17,0.124285714,
+MG,Madagascar,Data source,Spirits,0.34,0.34,0.34,0.34,0.31,0.3,0.33,0.328571429,
+MG,Madagascar,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+MW,Malawi,Data source,All types,,2,1.99,1.99,1.83,1.86,1.67,1.89,1.89
+MW,Malawi,Data source,Beer,,0.18,0.16,0.16,0.16,0.16,0.16,0.163333333,
+MW,Malawi,Data source,Wine,,0.02,0.02,0.02,0.02,0.02,0.02,0.02,
+MW,Malawi,Data source,Spirits,,0.23,0.23,0.23,0.28,0.16,0.17,0.216666667,
+MW,Malawi,Data source,Other alcoholic beverages,,1.58,1.58,1.58,1.38,1.52,1.33,1.495,
+MY,Malaysia,Data source,All types,0.63,0.64,0.58,0.59,0.53,0.51,0.49,0.567142857,0.567142857
+MY,Malaysia,Data source,Beer,0.38,0.39,0.39,0.4,0.4,0.39,0.38,0.39,
+MY,Malaysia,Data source,Wine,0.13,0.13,0.07,0.07,0,0,0,0.057142857,
+MY,Malaysia,Data source,Spirits,0.11,0.11,0.11,0.12,0.12,0.11,0.1,0.111428571,
+MY,Malaysia,Data source,Other alcoholic beverages,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,
+MV,Maldives,Data source,All types,,1.32,1.32,1.33,1.31,1.89,1.72,1.481666667,1.481666667
+MV,Maldives,Data source,Beer,,0.41,0.41,0.41,0.42,0.5,0.5,0.441666667,
+MV,Maldives,Data source,Wine,,0.49,0.49,0.5,0.48,0.53,0.45,0.49,
+MV,Maldives,Data source,Spirits,,0.42,0.42,0.42,0.42,0.86,0.78,0.553333333,
+MV,Maldives,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+ML,Mali,Data source,All types,,0.58,0.58,0.58,0.61,0.6,0.58,0.588333333,0.588333333
+ML,Mali,Data source,Beer,,0.09,0.09,0.09,0.08,0.08,0.07,0.083333333,
+ML,Mali,Data source,Wine,,0.01,0.01,0.01,0.01,0.01,0.01,0.01,
+ML,Mali,Data source,Spirits,,0,0,0,0,0.02,0.02,0.006666667,
+ML,Mali,Data source,Other alcoholic beverages,,0.48,0.48,0.48,0.52,0.5,0.48,0.49,
+MT,Malta,Data source,All types,8.02,7.75,7.88,7.97,7.92,7.12,7.52,7.74,7.74
+MT,Malta,Data source,Beer,2.94,2.96,2.88,2.9,3.07,2.58,2.89,2.888571429,
+MT,Malta,Data source,Wine,2.37,2.21,2.49,2.5,2.51,2.35,2.58,2.43,
+MT,Malta,Data source,Spirits,2.27,2.16,2.11,2.18,1.98,1.85,1.72,2.038571429,
+MT,Malta,Data source,Other alcoholic beverages,0.44,0.42,0.4,0.4,0.36,0.33,0.33,0.382857143,
+MR,Mauritania,Data source,All types,,0,0,0,0,0.01,0,0.001666667,0.001666667
+MR,Mauritania,Data source,Beer,,0,0,0,0,0,0,0,
+MR,Mauritania,Data source,Wine,,0,0,0,0,0,0,0,
+MR,Mauritania,Data source,Spirits,,0,0,0,0,0,0,0,
+MR,Mauritania,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+MU,Mauritius,Data source,All types,,2.58,2.8,2.95,2.94,3.02,2.95,2.873333333,2.873333333
+MU,Mauritius,Data source,Beer,,1.39,1.67,1.84,1.84,1.84,1.8,1.73,
+MU,Mauritius,Data source,Wine,,0.4,0.33,0.32,0.3,0.31,0.35,0.335,
+MU,Mauritius,Data source,Spirits,,0.79,0.79,0.79,0.8,0.87,0.78,0.803333333,
+MU,Mauritius,Data source,Other alcoholic beverages,,0,0,0,0,0,0.01,0.001666667,
+MX,Mexico,Data source,All types,5.53,5.28,5.19,5.16,5.31,5.32,5.15,5.277142857,5.277142857
+MX,Mexico,Data source,Beer,4.26,4.01,3.83,3.81,3.96,3.96,3.89,3.96,
+MX,Mexico,Data source,Wine,0.11,0.11,0.23,0.22,0.2,0.2,0.12,0.17,
+MX,Mexico,Data source,Spirits,1.13,1.14,1.11,1.1,1.12,1.12,1.11,1.118571429,
+MX,Mexico,Data source,Other alcoholic beverages,0.03,0.03,0.03,0.03,0.03,0.03,0.03,0.03,
+MX,Micronesia (Federated States of),Data source,All types,,1.59,1.59,1.67,2.98,1.91,1.78,1.92,1.92
+MX,Micronesia (Federated States of),Data source,Beer,,0.92,0.92,0.89,1.03,0.9,0.86,0.92,
+MX,Micronesia (Federated States of),Data source,Wine,,0.13,0.13,0.27,1.38,0.47,0.31,0.448333333,
+MX,Micronesia (Federated States of),Data source,Spirits,,0.52,0.52,0.5,0.56,0.51,0.6,0.535,
+MX,Micronesia (Federated States of),Data source,Other alcoholic beverages,,0.01,0.01,0.01,0.01,0.02,0.01,0.011666667,
+MN,Mongolia,Data source,All types,,5.66,5.74,5.64,5.51,5.38,5.06,5.498333333,5.498333333
+MN,Mongolia,Data source,Beer,,2.47,2.53,2.42,2.25,2.04,1.44,2.191666667,
+MN,Mongolia,Data source,Wine,,0.1,0.12,0.13,0.12,0.15,0.15,0.128333333,
+MN,Mongolia,Data source,Spirits,,3.09,3.09,3.09,3.14,3.19,3.33,3.155,
+MN,Mongolia,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+ME,Montenegro,Data source,All types,,6.41,6.53,6.47,6.49,6.38,7.26,6.59,6.59
+ME,Montenegro,Data source,Beer,,0.69,0.69,0.69,0.8,0.72,0.73,0.72,
+ME,Montenegro,Data source,Wine,,2.76,3,3.01,3.02,3.05,3.99,3.138333333,
+ME,Montenegro,Data source,Spirits,,2.83,2.71,2.63,2.54,2.47,2.37,2.591666667,
+ME,Montenegro,Data source,Other alcoholic beverages,,0.13,0.13,0.13,0.13,0.15,0.16,0.138333333,
+MA,Morocco,Data source,All types,,0.38,0.5,0.53,0.54,0.54,0.55,0.506666667,0.506666667
+MA,Morocco,Data source,Beer,,0.16,0.15,0.18,0.18,0.18,0.2,0.175,
+MA,Morocco,Data source,Wine,,0.16,0.28,0.28,0.28,0.27,0.27,0.256666667,
+MA,Morocco,Data source,Spirits,,0.07,0.06,0.07,0.08,0.09,0.09,0.076666667,
+MA,Morocco,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+MZ,Mozambique,Data source,All types,1.29,1.23,1.1,1,0.99,0.93,0.85,1.055714286,1.055714286
+MZ,Mozambique,Data source,Beer,1.01,0.96,0.81,0.74,0.72,0.68,0.61,0.79,
+MZ,Mozambique,Data source,Wine,0.11,0.11,0.12,0.1,0.11,0.12,0.1,0.11,
+MZ,Mozambique,Data source,Spirits,0.16,0.15,0.17,0.16,0.15,0.13,0.13,0.15,
+MZ,Mozambique,Data source,Other alcoholic beverages,0.01,0.01,0.01,0,0,0,0,0.004285714,
+MM,Myanmar,Data source,All types,,1.6,1.78,1.67,1.36,1.09,0.97,1.411666667,1.411666667
+MM,Myanmar,Data source,Beer,,0.36,0.59,0.46,0.36,0.17,0.15,0.348333333,
+MM,Myanmar,Data source,Wine,,0.16,0.15,0.18,0,0,0,0.081666667,
+MM,Myanmar,Data source,Spirits,,1.08,1.04,1.03,1,0.92,0.82,0.981666667,
+MM,Myanmar,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+NA,Namibia,Data source,All types,,7.83,7.83,7.83,6.34,7.71,7.44,7.496666667,7.496666667
+NA,Namibia,Data source,Beer,,4.71,4.71,4.71,4.67,7.3,7.16,5.543333333,
+NA,Namibia,Data source,Wine,,0.81,0.81,0.81,0.59,0.06,0.06,0.523333333,
+NA,Namibia,Data source,Spirits,,1.08,1.08,1.08,0.84,0.21,0.07,0.726666667,
+NA,Namibia,Data source,Other alcoholic beverages,,1.22,1.22,1.22,0.24,0.14,0.15,0.698333333,
+NR,Nauru,,All types,,,,2.54,3.64,4.44,4.66,3.82,3.82
+NR,Nauru,,Beer,,,,0.56,0.5,1.82,1.83,1.1775,
+NR,Nauru,,Wine,,,,0.09,0.23,0.06,0.25,0.1575,
+NR,Nauru,,Spirits,,,,1.88,2.91,2.56,2.58,2.4825,
+NR,Nauru,,Other alcoholic beverages,,,,,0,0,0,0,
+NR,Nauru,Data source,All types,,,,2.54,3.64,4.44,4.66,3.82,3.82
+NR,Nauru,Data source,Beer,,,,0.56,0.5,1.82,1.83,1.1775,
+NR,Nauru,Data source,Wine,,,,0.09,0.23,0.06,0.25,0.1575,
+NR,Nauru,Data source,Spirits,,,,1.88,2.91,2.56,2.58,2.4825,
+NR,Nauru,Data source,Other alcoholic beverages,,,,,0,0,0,0,
+NP,Nepal,Data source,All types,,0.58,0.69,0.6,0.26,0.25,0.23,0.435,0.435
+NP,Nepal,Data source,Beer,,0.18,0.17,0.15,0.13,0.12,0.1,0.141666667,
+NP,Nepal,Data source,Wine,,0.29,0.4,0.34,0,0,0,0.171666667,
+NP,Nepal,Data source,Spirits,,0.12,0.12,0.12,0.12,0.12,0.12,0.12,
+NP,Nepal,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+NL,Netherlands,Data source,All types,,8.03,8.16,8.54,9.28,9.17,9.32,8.75,8.75
+NL,Netherlands,Data source,Beer,,3.83,3.84,4.21,4.34,4.35,4.36,4.155,
+NL,Netherlands,Data source,Wine,,2.88,3,3.01,3.37,3.38,3.39,3.171666667,
+NL,Netherlands,Data source,Spirits,,1.32,1.32,1.32,1.57,1.45,1.57,1.425,
+NL,Netherlands,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+NZ,New Zealand,Data source,All types,9.24,8.87,9.15,9.25,9.24,9.48,9.63,9.265714286,9.265714286
+NZ,New Zealand,Data source,Beer,3.46,3.35,3.39,3.49,3.41,3.66,3.68,3.491428571,
+NZ,New Zealand,Data source,Wine,3.08,2.97,3.19,3.05,3.03,3.02,3.23,3.081428571,
+NZ,New Zealand,Data source,Spirits,2.67,2.53,2.55,2.69,2.78,2.77,2.69,2.668571429,
+NZ,New Zealand,Data source,Other alcoholic beverages,0.03,0.03,0.02,0.02,0.03,0.03,0.04,0.028571429,
+NI,Nicaragua,Data source,All types,3.86,3.73,3.54,3.56,3.61,3.36,3.34,3.571428571,3.571428571
+NI,Nicaragua,Data source,Beer,1.53,1.45,1.38,1.35,1.32,1.32,1.32,1.381428571,
+NI,Nicaragua,Data source,Wine,0.03,0.03,0.02,0.02,0.02,0.02,0.02,0.022857143,
+NI,Nicaragua,Data source,Spirits,2.3,2.25,2.13,2.19,2.26,2.02,2.01,2.165714286,
+NI,Nicaragua,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+NE,Niger,Data source,All types,,0.11,0.11,0.1,0.16,0.13,0.11,0.12,0.12
+NE,Niger,Data source,Beer,,0.05,0.05,0.04,0.05,0.05,0.05,0.048333333,
+NE,Niger,Data source,Wine,,0.01,0.01,0.01,0.02,0.01,0.01,0.011666667,
+NE,Niger,Data source,Spirits,,0.04,0.04,0.04,0.09,0.07,0.05,0.055,
+NE,Niger,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+NG,Nigeria,Data source,All types,,9.62,9.64,9.63,9.9,10.13,10.31,9.871666667,9.871666667
+NG,Nigeria,Data source,Beer,,0.76,0.76,0.76,0.75,0.75,0.7,0.746666667,
+NG,Nigeria,Data source,Wine,,0.04,0.05,0.05,0.05,0.04,0.03,0.043333333,
+NG,Nigeria,Data source,Spirits,,0.06,0.06,0.06,0.06,0.06,0.08,0.063333333,
+NG,Nigeria,Data source,Other alcoholic beverages,,8.76,8.76,8.76,9.04,9.28,9.5,9.016666667,
+NU,Niue,Data source,All types,,,,10.57,11.29,5.99,4.9,8.1875,8.1875
+NU,Niue,Data source,Beer,,,,5.95,2.91,3.13,1.9,3.4725,
+NU,Niue,Data source,Wine,,,,1.39,1.21,0.74,0.6,0.985,
+NU,Niue,Data source,Spirits,,,,3.23,7.17,2.12,2.4,3.73,
+NU,Niue,Data source,Other alcoholic beverages,,,,0,0,0,0,0,
+NO,Norway,Data source,All types,6.03,5.97,6.06,6.22,6.21,6.44,6.59,6.217142857,6.217142857
+NO,Norway,Data source,Beer,2.65,2.57,2.62,2.68,2.67,2.83,2.91,2.704285714,
+NO,Norway,Data source,Wine,2.21,2.22,2.25,2.3,2.29,2.3,2.29,2.265714286,
+NO,Norway,Data source,Spirits,1.01,1.03,1.04,1.09,1.11,1.18,1.25,1.101428571,
+NO,Norway,Data source,Other alcoholic beverages,0.16,0.15,0.15,0.14,0.14,0.13,0.14,0.144285714,
+OM,Oman,Data source,All types,0.39,0.39,0.39,0.42,0.48,0.51,0.53,0.444285714,0.444285714
+OM,Oman,Data source,Beer,0.16,0.16,0.16,0.17,0.18,0.2,0.21,0.177142857,
+OM,Oman,Data source,Wine,0.01,0.02,0.02,0.01,0.03,0.02,0.03,0.02,
+OM,Oman,Data source,Spirits,0.22,0.22,0.22,0.24,0.27,0.28,0.29,0.248571429,
+OM,Oman,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+PK,Pakistan,Data source,All types,0.04,0.04,0.04,0.03,0.03,0.04,0.04,0.037142857,0.037142857
+PK,Pakistan,Data source,Beer,0,0,0,0,0,0,0,0,
+PK,Pakistan,Data source,Wine,0,0,0,0,0,0,0,0,
+PK,Pakistan,Data source,Spirits,0.04,0.04,0.03,0.03,0.03,0.03,0.03,0.032857143,
+PK,Pakistan,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+PA,Panama,Data source,All types,6.69,6.92,7.29,7.35,7.11,7.05,6.9,7.044285714,7.044285714
+PA,Panama,Data source,Beer,5.14,5.37,5.74,5.52,5.14,5.05,4.86,5.26,
+PA,Panama,Data source,Wine,0.23,0.24,0.24,0.25,0.24,0.24,0.22,0.237142857,
+PA,Panama,Data source,Spirits,1.3,1.3,1.29,1.56,1.71,1.75,1.8,1.53,
+PA,Panama,Data source,Other alcoholic beverages,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,
+PG,Papua New Guinea,Data source,All types,,0.71,0.76,0.83,0.87,0.88,0.79,0.806666667,0.806666667
+PG,Papua New Guinea,Data source,Beer,,0.68,0.73,0.8,0.83,0.85,0.76,0.775,
+PG,Papua New Guinea,Data source,Wine,,0.02,0.02,0.02,0.03,0.02,0.01,0.02,
+PG,Papua New Guinea,Data source,Spirits,,0.02,0.02,0.02,0.02,0.01,0.02,0.018333333,
+PG,Papua New Guinea,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+PY,Paraguay,Data source,All types,5.8,5.63,6.07,6.14,6.17,6.6,6.81,6.174285714,6.174285714
+PY,Paraguay,Data source,Beer,3.15,3.13,3.17,3.2,3.21,3.32,3.28,3.208571429,
+PY,Paraguay,Data source,Wine,1.01,0.81,1.13,1.14,1.14,1.4,1.66,1.184285714,
+PY,Paraguay,Data source,Spirits,1.58,1.63,1.7,1.74,1.76,1.83,1.83,1.724285714,
+PY,Paraguay,Data source,Other alcoholic beverages,0.06,0.06,0.07,0.06,0.06,0.06,0.05,0.06,
+PE,Peru,Data source,All types,,5.1,5.14,5.06,5.38,5.26,5.28,5.203333333,5.203333333
+PE,Peru,Data source,Beer,,3.06,3.09,3.07,3.19,3.09,3.13,3.105,
+PE,Peru,Data source,Wine,,0.41,0.42,0.36,0.57,0.54,0.49,0.465,
+PE,Peru,Data source,Spirits,,1.62,1.62,1.62,1.61,1.62,1.65,1.623333333,
+PE,Peru,Data source,Other alcoholic beverages,,0,0.01,0.01,0.01,0.01,0.01,0.008333333,
+PH,Philippines,Data source,All types,4.55,4.41,4.55,4.53,4.95,4.9,4.78,4.667142857,4.667142857
+PH,Philippines,Data source,Beer,1.24,1.12,1.11,1.1,1.26,1.29,1.29,1.201428571,
+PH,Philippines,Data source,Wine,0.02,0.02,0.02,0.02,0.04,0.04,0.04,0.028571429,
+PH,Philippines,Data source,Spirits,3.28,3.26,3.39,3.39,3.63,3.45,3.3,3.385714286,
+PH,Philippines,Data source,Other alcoholic beverages,0.01,0,0.02,0.02,0.03,0.13,0.15,0.051428571,
+PL,Poland,Data source,All types,10.43,10.48,10.45,10.79,10.19,10.21,10.04,10.37,10.37
+PL,Poland,Data source,Beer,5.85,5.83,5.8,5.74,5.83,5.54,5.3,5.698571429,
+PL,Poland,Data source,Wine,0.82,0.89,0.89,0.82,0.83,0.9,0.97,0.874285714,
+PL,Poland,Data source,Spirits,3.76,3.76,3.76,4.23,3.53,3.76,3.76,3.794285714,
+PL,Poland,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+PT,Portugal,Data source,All types,10.66,10.54,10.35,10.54,10.86,11.91,12.23,11.01285714,11.01285714
+PT,Portugal,Data source,Beer,2.79,2.69,2.71,2.81,2.82,3.12,3.36,2.9,
+PT,Portugal,Data source,Wine,6.55,6.54,6.38,6.5,6.76,7.43,7.47,6.804285714,
+PT,Portugal,Data source,Spirits,0.82,0.82,0.82,0.82,0.86,0.92,0.93,0.855714286,
+PT,Portugal,Data source,Other alcoholic beverages,0.5,0.48,0.44,0.41,0.42,0.45,0.47,0.452857143,
+PR,Puerto Rico,Data source,All types,,,4.96,4.87,4.8,4.63,4.66,4.784,4.784
+PR,Puerto Rico,Data source,Beer,,,3.35,3.22,3.1,3.12,3.16,3.19,
+PR,Puerto Rico,Data source,Wine,,,0.4,0.34,0.33,0.32,0.32,0.342,
+PR,Puerto Rico,Data source,Spirits,,,1.16,1.25,1.3,1.12,1.11,1.188,
+PR,Puerto Rico,Data source,Other alcoholic beverages,,,0.06,0.06,0.06,0.07,0.07,0.064,
+QA,Qatar,Data source,All types,1.31,1.26,1.2,1.24,1.16,1.17,1.14,1.211428571,1.211428571
+QA,Qatar,Data source,Beer,0.34,0.33,0.33,0.33,0.34,0.32,0.33,0.331428571,
+QA,Qatar,Data source,Wine,0.13,0.13,0.13,0.17,0.12,0.13,0.11,0.131428571,
+QA,Qatar,Data source,Spirits,0.83,0.79,0.73,0.74,0.7,0.71,0.7,0.742857143,
+QA,Qatar,Data source,Other alcoholic beverages,0.01,0.01,0.01,0.01,0,0,0.01,0.007142857,
+GS,South Korea,Data source,All types,,9.06,8.95,8.77,8.98,8.86,8.9,8.92,8.92
+GS,South Korea,Data source,Beer,,2.01,2.01,2.1,1.98,1.93,1.89,1.986666667,
+GS,South Korea,Data source,Wine,,0.17,0.15,0.15,0.13,0.13,0.14,0.145,
+GS,South Korea,Data source,Spirits,,0.64,0.39,0.38,0.37,0.38,0.4,0.426666667,
+GS,South Korea,Data source,Other alcoholic beverages,,6.24,6.39,6.14,6.5,6.42,6.48,6.361666667,
+MD,Moldova,Data source,All types,9.3,9.39,9.14,9.62,9.85,8.67,7.55,9.074285714,9.074285714
+MD,Moldova,Data source,Beer,1.5,1.52,1.62,1.78,1.95,1.83,1.65,1.692857143,
+MD,Moldova,Data source,Wine,5.26,5.25,4.84,4.85,4.86,3.58,2.59,4.461428571,
+MD,Moldova,Data source,Spirits,2.35,2.43,2.47,2.77,2.82,3.04,3.09,2.71,
+MD,Moldova,Data source,Other alcoholic beverages,0.19,0.19,0.21,0.22,0.21,0.21,0.22,0.207142857,
+RO,Romania,Data source,All types,,10.4,10.46,10.59,10.55,10.4,10.79,10.53166667,10.53166667
+RO,Romania,Data source,Beer,,5.78,4.9,5.1,5,4.7,4.5,4.996666667,
+RO,Romania,Data source,Wine,,2.92,3.2,3.1,2.8,2.8,2.6,2.903333333,
+RO,Romania,Data source,Spirits,,1.7,1.4,1.4,1.1,1.4,1.9,1.483333333,
+RO,Romania,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+RO,Russia,Data source,All types,8.42,8.41,8.85,9.92,10.89,10.95,10.98,9.774285714,9.774285714
+RO,Russia,Data source,Beer,3.29,3.49,3.64,3.96,4.17,4.13,4.09,3.824285714,
+RO,Russia,Data source,Wine,1.08,0.87,0.89,0.84,0.93,0.96,1.02,0.941428571,
+RO,Russia,Data source,Spirits,3.25,3.36,3.6,4.36,4.95,5.04,5.06,4.231428571,
+RO,Russia,Data source,Other alcoholic beverages,0.8,0.69,0.72,0.76,0.84,0.82,0.81,0.777142857,
+RW,Rwanda,Data source,All types,,6.91,6.83,6.9,7.13,7.3,7.7,7.128333333,7.128333333
+RW,Rwanda,Data source,Beer,,1.02,0.95,1.02,0.98,0.88,0.81,0.943333333,
+RW,Rwanda,Data source,Wine,,0.01,0.01,0.01,0,0,0,0.005,
+RW,Rwanda,Data source,Spirits,,0.19,0.19,0.19,0.13,0.09,0.04,0.138333333,
+RW,Rwanda,Data source,Other alcoholic beverages,,5.68,5.68,5.68,6.02,6.33,6.85,6.04,
+KN,Saint Kitts and Nevis,Data source,All types,8.86,8.8,8.58,8.51,8.46,8.27,8.38,8.551428571,8.551428571
+KN,Saint Kitts and Nevis,Data source,Beer,4.23,4.15,4.01,3.96,3.91,3.78,3.79,3.975714286,
+KN,Saint Kitts and Nevis,Data source,Wine,0.58,0.58,0.37,0.36,0.35,0.31,0.55,0.442857143,
+KN,Saint Kitts and Nevis,Data source,Spirits,3.84,3.88,4,4.02,4.04,3.99,3.84,3.944285714,
+KN,Saint Kitts and Nevis,Data source,Other alcoholic beverages,0.21,0.19,0.2,0.17,0.16,0.2,0.19,0.188571429,
+LC,Saint Lucia,Data source,All types,9.69,9.66,9.5,9.26,9.63,10.26,10.68,9.811428571,9.811428571
+LC,Saint Lucia,Data source,Beer,3.43,3.36,3.27,3.28,3.28,3.27,3.28,3.31,
+LC,Saint Lucia,Data source,Wine,1.28,1.28,1.29,1.18,1.17,1.3,1.45,1.278571429,
+LC,Saint Lucia,Data source,Spirits,4.85,4.87,4.78,4.67,5.04,5.33,5.55,5.012857143,
+LC,Saint Lucia,Data source,Other alcoholic beverages,0.13,0.14,0.15,0.13,0.14,0.36,0.4,0.207142857,
+VC,Saint Vincent and the Grenadines,Data source,All types,7.44,7.25,6.99,6.89,6.93,7.02,6.99,7.072857143,7.072857143
+VC,Saint Vincent and the Grenadines,Data source,Beer,2.72,2.6,2.49,2.41,2.34,2.35,2.32,2.461428571,
+VC,Saint Vincent and the Grenadines,Data source,Wine,0.27,0.27,0.22,0.17,0.33,0.3,0.33,0.27,
+VC,Saint Vincent and the Grenadines,Data source,Spirits,4.26,4.21,4.12,4.16,4.15,4.26,4.22,4.197142857,
+VC,Saint Vincent and the Grenadines,Data source,Other alcoholic beverages,0.19,0.17,0.16,0.15,0.12,0.1,0.12,0.144285714,
+WS,Samoa,Data source,All types,,1.97,2.01,1.9,2.19,2.16,3.01,2.206666667,2.206666667
+WS,Samoa,Data source,Beer,,1.86,1.88,1.81,2.09,1.94,2.57,2.025,
+WS,Samoa,Data source,Wine,,0.12,0.13,0.09,0.1,0.09,0.09,0.103333333,
+WS,Samoa,Data source,Spirits,,0,0,0,0,0.12,0.35,0.078333333,
+WS,Samoa,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+ST,Sao Tome and Principe,Data source,All types,,4.85,5.39,4.78,4.83,5.9,5.8,5.258333333,5.258333333
+ST,Sao Tome and Principe,Data source,Beer,,0.96,0.96,0.96,0.49,0.72,0.85,0.823333333,
+ST,Sao Tome and Principe,Data source,Wine,,3.89,4.43,3.82,4.34,4.64,4.39,4.251666667,
+ST,Sao Tome and Principe,Data source,Spirits,,0,0,0,0,0.54,0.56,0.183333333,
+ST,Sao Tome and Principe,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+SA,Saudi Arabia,Data source,All types,,0.08,0.08,0.08,0.08,0.09,0.08,0.081666667,0.081666667
+SA,Saudi Arabia,Data source,Beer,,0,0,0,0,0,0,0,
+SA,Saudi Arabia,Data source,Wine,,0,0,0,0,0,0,0,
+SA,Saudi Arabia,Data source,Spirits,,0.08,0.08,0.08,0.08,0.09,0.08,0.081666667,
+SA,Saudi Arabia,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+SN,Senegal,Data source,All types,,0.25,0.25,0.25,0.28,0.31,0.28,0.27,0.27
+SN,Senegal,Data source,Beer,,0.14,0.14,0.14,0.14,0.15,0.14,0.141666667,
+SN,Senegal,Data source,Wine,,0.08,0.08,0.08,0.11,0.13,0.12,0.1,
+SN,Senegal,Data source,Spirits,,0.02,0.02,0.03,0.03,0.03,0.03,0.026666667,
+SN,Senegal,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+RS,Serbia,Data source,All types,9.17,9.13,8.77,9.06,9.05,8.96,9.09,9.032857143,9.032857143
+RS,Serbia,Data source,Beer,2.94,2.95,2.61,2.9,3.15,2.93,2.85,2.904285714,
+RS,Serbia,Data source,Wine,3.89,3.89,3.88,3.9,3.61,3.75,3.95,3.838571429,
+RS,Serbia,Data source,Spirits,2.32,2.28,2.26,2.24,2.27,2.27,2.27,2.272857143,
+RS,Serbia,Data source,Other alcoholic beverages,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,
+SC,Seychelles,Data source,All types,,11.5,9.77,9.36,8.16,8.58,5.92,8.881666667,8.881666667
+SC,Seychelles,Data source,Beer,,7.92,6.73,6.48,5.49,4.83,2.71,5.693333333,
+SC,Seychelles,Data source,Wine,,2.57,2.15,2.09,1.89,2.98,2.56,2.373333333,
+SC,Seychelles,Data source,Spirits,,0.72,0.71,0.7,0.72,0.65,0.59,0.681666667,
+SC,Seychelles,Data source,Other alcoholic beverages,,0.28,0.18,0.09,0.06,0.12,0.06,0.131666667,
+SL,Sierra Leone,Data source,All types,,3.42,3.4,3.53,3.6,3.84,3.91,3.616666667,3.616666667
+SL,Sierra Leone,Data source,Beer,,0.14,0.13,0.24,0.2,0.19,0.18,0.18,
+SL,Sierra Leone,Data source,Wine,,0.04,0.03,0.04,0.03,0.03,0.02,0.031666667,
+SL,Sierra Leone,Data source,Spirits,,0,0,0,0,0.02,0.02,0.006666667,
+SL,Sierra Leone,Data source,Other alcoholic beverages,,3.25,3.25,3.25,3.36,3.59,3.68,3.396666667,
+SG,Singapore,Data source,All types,1.81,1.8,1.83,1.84,1.93,1.89,1.84,1.848571429,1.848571429
+SG,Singapore,Data source,Beer,1.27,1.25,1.28,1.23,1.34,1.31,1.29,1.281428571,
+SG,Singapore,Data source,Wine,0.26,0.27,0.27,0.28,0.27,0.27,0.25,0.267142857,
+SG,Singapore,Data source,Spirits,0.24,0.25,0.24,0.29,0.29,0.28,0.27,0.265714286,
+SG,Singapore,Data source,Other alcoholic beverages,0.04,0.03,0.03,0.03,0.03,0.03,0.03,0.031428571,
+SK,Slovakia,Data source,All types,10.14,10.78,10.89,10.54,10.66,10.78,10.55,10.62,10.62
+SK,Slovakia,Data source,Beer,3.42,3.44,3.32,3.43,3.67,3.55,3.44,3.467142857,
+SK,Slovakia,Data source,Wine,2.12,2.61,2.84,2.37,2.13,2.25,2.13,2.35,
+SK,Slovakia,Data source,Spirits,4.24,4.27,4.14,4.14,4.38,4.5,4.62,4.327142857,
+SK,Slovakia,Data source,Other alcoholic beverages,0.35,0.47,0.59,0.59,0.47,0.47,0.36,0.471428571,
+SI,Slovenia,Data source,All types,10.51,11.49,10.92,9.53,10.95,10.61,10.31,10.61714286,10.61714286
+SI,Slovenia,Data source,Beer,4.35,5.73,5.37,4.55,4.58,4.94,4.59,4.872857143,
+SI,Slovenia,Data source,Wine,5.32,4.9,4.73,4.09,5.5,4.81,4.85,4.885714286,
+SI,Slovenia,Data source,Spirits,0.84,0.86,0.82,0.89,0.87,0.86,0.89,0.861428571,
+SI,Slovenia,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+SB,Solomon Islands,Data source,All types,,0.98,0.95,0.98,1,1.05,1.09,1.008333333,1.008333333
+SB,Solomon Islands,Data source,Beer,,0.94,0.91,0.94,0.96,0.99,0.99,0.955,
+SB,Solomon Islands,Data source,Wine,,0.03,0.03,0.04,0.04,0.03,0.03,0.033333333,
+SB,Solomon Islands,Data source,Spirits,,0,0,0,0,0.03,0.07,0.016666667,
+SB,Solomon Islands,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+SO,Somalia,Data source,All types,,0,0,0,0,0,0,0,0
+SO,Somalia,Data source,Beer,,0,0,0,0,0,0,0,
+SO,Somalia,Data source,Wine,,0,0,0,0,0,0,0,
+SO,Somalia,Data source,Spirits,,0,0,0,0,0,0,0,
+SO,Somalia,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+ZA,South Africa,Data source,All types,7.12,7.12,7.17,7.19,7.26,7.28,7.28,7.202857143,7.202857143
+ZA,South Africa,Data source,Beer,3.99,3.94,4,4.07,4.15,4.21,4.19,4.078571429,
+ZA,South Africa,Data source,Wine,1.32,1.3,1.24,1.19,1.21,1.22,1.22,1.242857143,
+ZA,South Africa,Data source,Spirits,1.27,1.31,1.31,1.31,1.31,1.29,1.33,1.304285714,
+ZA,South Africa,Data source,Other alcoholic beverages,0.54,0.56,0.62,0.62,0.59,0.55,0.54,0.574285714,
+ES,Spain,Data source,All types,8.58,8.26,8.7,8.77,8.83,9.01,9.78,8.847142857,8.847142857
+ES,Spain,Data source,Beer,4.64,4.51,4.35,4.42,4.41,4.4,4.87,4.514285714,
+ES,Spain,Data source,Wine,1.55,1.55,2.16,2.15,2.21,2.2,2.15,1.995714286,
+ES,Spain,Data source,Spirits,2.39,2.21,2.19,2.2,2.2,2.42,2.76,2.338571429,
+ES,Spain,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+LK,Sri Lanka,Data source,All types,,2.72,2.45,2.65,2.89,3.03,2.31,2.675,2.675
+LK,Sri Lanka,Data source,Beer,,0.36,0.37,0.4,0.4,0.28,0.3,0.351666667,
+LK,Sri Lanka,Data source,Wine,,0.01,0.01,0,0,0,0,0.003333333,
+LK,Sri Lanka,Data source,Spirits,,2.31,2.03,2.18,2.43,2.7,1.97,2.27,
+LK,Sri Lanka,Data source,Other alcoholic beverages,,0.04,0.05,0.06,0.06,0.05,0.04,0.05,
+SS,South Sudan,Data source,All types,,,,0.06,0,,,0.03,0.03
+SS,South Sudan,Data source,Beer,,,,0.04,0,,,0.02,
+SS,South Sudan,Data source,Wine,,,,0,0,,,0,
+SS,South Sudan,Data source,Spirits,,,,0.02,0,,,0.01,
+SS,South Sudan,Data source,Other alcoholic beverages,,,,0,0,,,0,
+SR,Suriname,Data source,All types,4.22,4.69,5.41,5.95,5.75,5.66,5.27,5.278571429,5.278571429
+SR,Suriname,Data source,Beer,1.9,2.05,2.15,2.11,2.07,2.04,2.03,2.05,
+SR,Suriname,Data source,Wine,0.15,0.15,0.17,0.19,0.11,0.16,0.13,0.151428571,
+SR,Suriname,Data source,Spirits,2.06,2.36,2.94,3.41,3.34,3.25,2.94,2.9,
+SR,Suriname,Data source,Other alcoholic beverages,0.12,0.14,0.16,0.23,0.23,0.21,0.18,0.181428571,
+SE,Sweden,Data source,All types,7.18,7.16,7.2,7.32,7.23,7.34,7.31,7.248571429,7.248571429
+SE,Sweden,Data source,Beer,2.61,2.62,2.64,2.65,2.63,2.7,2.67,2.645714286,
+SE,Sweden,Data source,Wine,3.43,3.42,3.46,3.5,3.43,3.47,3.4,3.444285714,
+SE,Sweden,Data source,Spirits,1.01,1.01,0.99,1.06,1.05,1.05,1.11,1.04,
+SE,Sweden,Data source,Other alcoholic beverages,0.12,0.11,0.11,0.11,0.12,0.12,0.13,0.117142857,
+CH,Switzerland,Data source,All types,9.43,9.62,9.62,9.74,9.87,9.99,10.01,9.754285714,9.754285714
+CH,Switzerland,Data source,Beer,3.03,3.17,3.17,3.17,3.17,3.17,3.18,3.151428571,
+CH,Switzerland,Data source,Wine,4.54,4.58,4.58,4.69,4.7,4.82,4.94,4.692857143,
+CH,Switzerland,Data source,Spirits,1.75,1.76,1.76,1.76,1.88,1.88,1.77,1.794285714,
+CH,Switzerland,Data source,Other alcoholic beverages,0.12,0.12,0.12,0.12,0.12,0.12,0.12,0.12,
+CH,Syria,Data source,All types,,0.23,0.2,0.15,0.21,0.6,0.76,0.358333333,0.358333333
+CH,Syria,Data source,Beer,,0.03,0.02,0.01,0.02,0.08,0.1,0.043333333,
+CH,Syria,Data source,Wine,,0,0,0,0,0.01,0.01,0.003333333,
+CH,Syria,Data source,Spirits,,0.2,0.18,0.13,0.19,0.51,0.65,0.31,
+CH,Syria,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+TJ,Tajikistan,Data source,All types,0.91,0.9,0.87,0.79,0.76,0.7,0.67,0.8,0.8
+TJ,Tajikistan,Data source,Beer,0.35,0.36,0.4,0.39,0.36,0.36,0.29,0.358571429,
+TJ,Tajikistan,Data source,Wine,0.01,0.01,0.02,0.02,0.02,0.02,0.02,0.017142857,
+TJ,Tajikistan,Data source,Spirits,0.56,0.53,0.45,0.38,0.38,0.32,0.37,0.427142857,
+TJ,Tajikistan,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+TH,Thailand,Data source,All types,,6.57,6.9,6.79,7.09,7.14,6.7,6.865,6.865
+TH,Thailand,Data source,Beer,,1.86,2.1,2.22,2.11,1.94,1.86,2.015,
+TH,Thailand,Data source,Wine,,0.18,0.18,0.17,0.15,0.12,0.09,0.148333333,
+TH,Thailand,Data source,Spirits,,4.53,4.62,4.4,4.83,5.08,4.75,4.701666667,
+TH,Thailand,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+MO,Macedonia,Data source,All types,4.83,4.68,3.75,3.81,3.74,3.74,3.76,4.044285714,4.044285714
+MO,Macedonia,Data source,Beer,1.7,1.67,1.66,1.72,1.67,1.61,1.6,1.661428571,
+MO,Macedonia,Data source,Wine,2.25,2.15,1.23,1.23,1.24,1.26,1.26,1.517142857,
+MO,Macedonia,Data source,Spirits,0.84,0.84,0.83,0.83,0.81,0.85,0.87,0.838571429,
+MO,Macedonia,Data source,Other alcoholic beverages,0.03,0.03,0.03,0.03,0.02,0.02,0.02,0.025714286,
+TL,Timor-Leste,Data source,All types,,0.56,0.56,0.56,0.57,0.46,0.09,0.466666667,0.466666667
+TL,Timor-Leste,Data source,Beer,,0.38,0.38,0.38,0.39,0.33,0.02,0.313333333,
+TL,Timor-Leste,Data source,Wine,,0.18,0.18,0.18,0.19,0.08,0.05,0.143333333,
+TL,Timor-Leste,Data source,Spirits,,0,0,0,0,0.05,0.02,0.011666667,
+TL,Timor-Leste,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+TG,Togo,Data source,All types,,1.66,1.66,1.63,1.38,1.53,1.3,1.526666667,1.526666667
+TG,Togo,Data source,Beer,,0.61,0.61,0.58,0.52,0.49,0.63,0.573333333,
+TG,Togo,Data source,Wine,,0.26,0.27,0.27,0.36,0.34,0.29,0.298333333,
+TG,Togo,Data source,Spirits,,0.3,0.3,0.3,0.31,0.35,0.02,0.263333333,
+TG,Togo,Data source,Other alcoholic beverages,,0.48,0.48,0.48,0.18,0.36,0.37,0.391666667,
+TO,Tonga,Data source,All types,,,,0.37,0.54,0.96,1.24,0.7775,0.7775
+TO,Tonga,Data source,Beer,,,,0.22,0.35,0.53,0.92,0.505,
+TO,Tonga,Data source,Wine,,,,0.04,0.12,0.1,0.09,0.0875,
+TO,Tonga,Data source,Spirits,,,,0.1,0.07,0.32,0.23,0.18,
+TO,Tonga,Data source,Other alcoholic beverages,,,,0,0,0,0,0,
+TT,Trinidad and Tobago,Data source,All types,7.52,6.87,6.88,6.68,6.68,6.5,6.5,6.804285714,6.804285714
+TT,Trinidad and Tobago,Data source,Beer,4.35,3.73,3.68,3.6,3.58,3.51,3.53,3.711428571,
+TT,Trinidad and Tobago,Data source,Wine,0.25,0.25,0.29,0.2,0.15,0.13,0.13,0.2,
+TT,Trinidad and Tobago,Data source,Spirits,2.79,2.77,2.79,2.78,2.84,2.76,2.75,2.782857143,
+TT,Trinidad and Tobago,Data source,Other alcoholic beverages,0.12,0.13,0.13,0.11,0.11,0.1,0.1,0.114285714,
+TN,Tunisia,Data source,All types,1.4,1.42,1.49,1.4,1.39,1.28,1.27,1.378571429,1.378571429
+TN,Tunisia,Data source,Beer,1.01,1.04,0.95,0.85,0.85,0.85,0.87,0.917142857,
+TN,Tunisia,Data source,Wine,0.34,0.33,0.48,0.48,0.48,0.38,0.35,0.405714286,
+TN,Tunisia,Data source,Spirits,0.05,0.05,0.05,0.06,0.06,0.06,0.06,0.055714286,
+TN,Tunisia,Data source,Other alcoholic beverages,0,0,0,0,0,0,0.01,0.001428571,
+TR,Turkey,Data source,All types,1.29,1.4,1.44,1.4,1.53,1.51,1.49,1.437142857,1.437142857
+TR,Turkey,Data source,Beer,0.74,0.8,0.83,0.78,0.9,0.84,0.86,0.821428571,
+TR,Turkey,Data source,Wine,0.11,0.13,0.13,0.13,0.12,0.12,0.13,0.124285714,
+TR,Turkey,Data source,Spirits,0.44,0.47,0.48,0.49,0.51,0.55,0.5,0.491428571,
+TR,Turkey,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+TM,Turkmenistan,Data source,All types,3.43,3.39,3.85,3.88,3.7,3.56,3.55,3.622857143,3.622857143
+TM,Turkmenistan,Data source,Beer,0.92,0.87,0.81,0.83,0.64,0.44,0.35,0.694285714,
+TM,Turkmenistan,Data source,Wine,1.21,1.22,1.76,1.76,1.76,1.8,1.88,1.627142857,
+TM,Turkmenistan,Data source,Spirits,1.31,1.3,1.28,1.29,1.3,1.31,1.32,1.301428571,
+TM,Turkmenistan,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+TV,Tuvalu,Data source,All types,,,,1.63,1.91,1.34,1.02,1.475,1.475
+TV,Tuvalu,Data source,Beer,,,,0.01,0,0.13,0.11,0.0625,
+TV,Tuvalu,Data source,Wine,,,,1.38,1.79,1.15,0.55,1.2175,
+TV,Tuvalu,Data source,Spirits,,,,0.23,0.12,0.06,0.36,0.1925,
+TV,Tuvalu,Data source,Other alcoholic beverages,,,,0,0,0,0,0,
+UG,Uganda,Data source,All types,,7.63,7.67,7.58,8.3,11.59,11.3,9.011666667,9.011666667
+UG,Uganda,Data source,Beer,,0.84,0.89,0.79,0.93,0.74,0.69,0.813333333,
+UG,Uganda,Data source,Wine,,0.01,0.01,0.01,0.01,0.01,0.01,0.01,
+UG,Uganda,Data source,Spirits,,0.23,0.23,0.23,0.29,0.22,0.16,0.226666667,
+UG,Uganda,Data source,Other alcoholic beverages,,6.54,6.54,6.54,7.07,10.63,10.44,7.96,
+UA,Ukraine,Data source,All types,5.82,5.75,6.22,7.11,8.18,8.77,8.81,7.237142857,7.237142857
+UA,Ukraine,Data source,Beer,2.46,2.46,2.94,3.21,3.27,3.31,3.36,3.001428571,
+UA,Ukraine,Data source,Wine,0.31,0.32,0.32,0.38,0.48,0.58,0.6,0.427142857,
+UA,Ukraine,Data source,Spirits,3,2.56,2.56,3.04,3.88,4.28,4.24,3.365714286,
+UA,Ukraine,Data source,Other alcoholic beverages,0.04,0.4,0.4,0.48,0.55,0.61,0.61,0.441428571,
+AE,United Arab Emirates,Data source,All types,2.1,2.03,1.94,1.86,1.79,1.76,1.7,1.882857143,1.882857143
+AE,United Arab Emirates,Data source,Beer,0.21,0.21,0.2,0.19,0.19,0.18,0.19,0.195714286,
+AE,United Arab Emirates,Data source,Wine,0.16,0.14,0.14,0.12,0.12,0.11,0.11,0.128571429,
+AE,United Arab Emirates,Data source,Spirits,1.72,1.68,1.6,1.54,1.48,1.46,1.4,1.554285714,
+AE,United Arab Emirates,Data source,Other alcoholic beverages,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,
+GB,United Kingdom,Data source,All types,9.81,9.82,9.69,9.65,9.76,10.02,10.22,9.852857143,9.852857143
+GB,United Kingdom,Data source,Beer,3.44,3.49,3.48,3.38,3.46,3.65,3.76,3.522857143,
+GB,United Kingdom,Data source,Wine,3.5,3.48,3.38,3.36,3.3,3.3,3.3,3.374285714,
+GB,United Kingdom,Data source,Spirits,2.21,2.13,2.07,2.09,2.16,2.17,2.25,2.154285714,
+GB,United Kingdom,Data source,Other alcoholic beverages,0.66,0.73,0.76,0.83,0.84,0.9,0.91,0.804285714,
+TJ,Tanzania,Data source,All types,,6.16,6.16,6.2,5.84,6.62,6.65,6.271666667,6.271666667
+TJ,Tanzania,Data source,Beer,,0.75,0.76,0.8,0.76,0.69,0.66,0.736666667,
+TJ,Tanzania,Data source,Wine,,0.02,0.02,0.02,0.02,0.01,0.01,0.016666667,
+TJ,Tanzania,Data source,Spirits,,0.1,0.1,0.1,0.21,0.1,0.24,0.141666667,
+TJ,Tanzania,Data source,Other alcoholic beverages,,5.28,5.28,5.28,4.84,5.81,5.74,5.371666667,
+US,United States,Data source,All types,,8.78,8.77,8.81,8.86,8.66,8.56,8.74,8.74
+US,United States,Data source,Beer,,4.13,4.15,4.23,4.29,4.22,4.3,4.22,
+US,United States,Data source,Wine,,1.59,1.61,1.59,1.6,1.55,1.45,1.565,
+US,United States,Data source,Spirits,,3.07,3.01,2.99,2.96,2.89,2.81,2.955,
+US,United States,Data source,Other alcoholic beverages,,,0,0,0,0,0,0,
+UY,Uruguay,Data source,All types,,9.03,9.06,8.7,8.47,8.75,8.52,8.755,8.755
+UY,Uruguay,Data source,Beer,,3.18,3.19,3.2,3.34,3.22,2.97,3.183333333,
+UY,Uruguay,Data source,Wine,,3.94,3.83,3.97,3.72,4.12,4.13,3.951666667,
+UY,Uruguay,Data source,Spirits,,1.91,2.04,1.53,1.41,1.42,1.42,1.621666667,
+UY,Uruguay,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+UZ,Uzbekistan,Data source,All types,1.6,1.61,1.51,1.56,1.52,1.77,1.79,1.622857143,1.622857143
+UZ,Uzbekistan,Data source,Beer,0.55,0.55,0.45,0.5,0.56,0.8,0.84,0.607142857,
+UZ,Uzbekistan,Data source,Wine,0.14,0.14,0.13,0.13,0.13,0.13,0.12,0.131428571,
+UZ,Uzbekistan,Data source,Spirits,0.91,0.91,0.92,0.92,0.83,0.84,0.83,0.88,
+UZ,Uzbekistan,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+VU,Vanuatu,Data source,All types,,0.85,0.86,0.98,1.04,0.85,0.91,0.915,0.915
+VU,Vanuatu,Data source,Beer,,0.33,0.34,0.47,0.49,0.37,0.34,0.39,
+VU,Vanuatu,Data source,Wine,,0.22,0.22,0.2,0.24,0.17,0.19,0.206666667,
+VU,Vanuatu,Data source,Spirits,,0.31,0.31,0.31,0.31,0.31,0.38,0.321666667,
+VU,Vanuatu,Data source,Other alcoholic beverages,,0,0,0,0,0.01,0,0.001666667,
+VU,Venezuela,Data source,All types,3.87,5.98,6.41,6.66,6.65,6.7,7.18,6.207142857,6.207142857
+VU,Venezuela,Data source,Beer,2.68,4.7,4.94,4.93,4.86,5.02,5.45,4.654285714,
+VU,Venezuela,Data source,Wine,0.01,0.01,0.05,0.04,0.1,0.09,0.06,0.051428571,
+VU,Venezuela,Data source,Spirits,1.13,1.22,1.35,1.62,1.63,1.53,1.62,1.442857143,
+VU,Venezuela,Data source,Other alcoholic beverages,0.05,0.05,0.07,0.07,0.06,0.05,0.05,0.057142857,
+VN,Vietnam,Data source,All types,3.1,2.92,2.74,2.66,2.5,2.37,2.18,2.638571429,2.638571429
+VN,Vietnam,Data source,Beer,2.83,2.67,2.5,2.43,2.33,2.24,2.07,2.438571429,
+VN,Vietnam,Data source,Wine,0.02,0.02,0.02,0.02,0.02,0.02,0.02,0.02,
+VN,Vietnam,Data source,Spirits,0.24,0.23,0.21,0.21,0.14,0.11,0.09,0.175714286,
+VN,Vietnam,Data source,Other alcoholic beverages,0,0,0,0,0,0,0,0,
+YE,Yemen,Data source,All types,,0.04,0.04,0.04,0.04,0.04,0.05,0.041666667,0.041666667
+YE,Yemen,Data source,Beer,,0.03,0.03,0.03,0.04,0.03,0.05,0.035,
+YE,Yemen,Data source,Wine,,0,0,0,0,0,0,0,
+YE,Yemen,Data source,Spirits,,0,0,0,0,0,0,0,
+YE,Yemen,Data source,Other alcoholic beverages,,0,0,0,0,0,0,0,
+ZM,Zambia,Data source,All types,,2.89,2.93,2.81,2.96,2.93,2.95,2.911666667,2.911666667
+ZM,Zambia,Data source,Beer,,1.05,1.08,0.99,0.82,0.7,0.58,0.87,
+ZM,Zambia,Data source,Wine,,0.08,0.09,0.07,0.06,0.06,0.07,0.071666667,
+ZM,Zambia,Data source,Spirits,,0.01,0.01,0.01,0.38,0.34,0.35,0.183333333,
+ZM,Zambia,Data source,Other alcoholic beverages,,1.75,1.75,1.75,1.7,1.83,1.95,1.788333333,
+ZW,Zimbabwe,Data source,All types,,3.55,3.44,3.34,3.45,3.34,2.92,3.34,3.34
+ZW,Zimbabwe,Data source,Beer,,2.23,2.12,2.05,2.07,2.05,1.67,2.031666667,
+ZW,Zimbabwe,Data source,Wine,,0.05,0.05,0.13,0.09,0.13,0.1,0.091666667,
+ZW,Zimbabwe,Data source,Spirits,,0.43,0.43,0.32,0.44,0.32,0.34,0.38,
+ZW,Zimbabwe,Data source,Other alcoholic beverages,,0.85,0.85,0.83,0.85,0.83,0.81,0.836666667,
