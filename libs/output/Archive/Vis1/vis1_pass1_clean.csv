@@ -1,0 +1,162 @@
+Query Country,Country,matching country name in happiness file with gmaps long name,Country Code,Latitude,Longitude,matching country code in happiness file with gmaps short name,Country Code,Country
+Afghanistan,Afghanistan,TRUE,AF,33.93911,67.709953,TRUE,AF,Afghanistan
+Albania,Albania,TRUE,AL,41.153332,20.168331,TRUE,AL,Albania
+Algeria,Algeria,TRUE,DZ,28.033886,1.659626,TRUE,DZ,Algeria
+Angola,Angola,TRUE,AO,-11.202692,17.873887,TRUE,AO,Angola
+Argentina,Argentina,TRUE,AR,-38.416097,-63.616672,TRUE,AR,Argentina
+Armenia,Armenia,TRUE,AM,40.069099,45.038189,TRUE,AM,Armenia
+Australia,Australia,TRUE,AU,-25.274398,133.775136,TRUE,AU,Australia
+Austria,Austria,TRUE,AT,47.516231,14.550072,TRUE,AT,Austria
+Azerbaijan,Azerbaijan,TRUE,AZ,40.143105,47.576927,TRUE,AZ,Azerbaijan
+Bahrain,Bahrain,TRUE,BH,26.0667,50.5577,TRUE,BH,Bahrain
+Bangladesh,Bangladesh,TRUE,BD,23.684994,90.356331,TRUE,BD,Bangladesh
+Belarus,Belarus,TRUE,BY,53.709807,27.953389,TRUE,BY,Belarus
+Belgium,Belgium,TRUE,BE,50.503887,4.469936,TRUE,BE,Belgium
+Belize,Belize,TRUE,BZ,17.189877,-88.49765,TRUE,BZ,Belize
+Benin,Benin,TRUE,BJ,9.30769,2.315834,TRUE,BJ,Benin
+Bhutan,Bhutan,TRUE,BT,27.514162,90.433601,TRUE,BT,Bhutan
+Bolivia,Bolivia,TRUE,BO,-16.290154,-63.588653,TRUE,BO,Bolivia
+Bosnia and Herzegovina,Bosnia and Herzegovina,TRUE,BA,43.915886,17.679076,TRUE,BA,Bosnia and Herzegovina
+Botswana,Botswana,TRUE,BW,-22.328474,24.684866,TRUE,BW,Botswana
+Brazil,Brazil,TRUE,BR,-14.235004,-51.92528,TRUE,BR,Brazil
+Bulgaria,Bulgaria,TRUE,BG,42.733883,25.48583,TRUE,BG,Bulgaria
+Burkina Faso,Burkina Faso,TRUE,BF,12.238333,-1.561593,TRUE,BF,Burkina Faso
+Burundi,Burundi,TRUE,BI,-3.373056,29.918886,TRUE,BI,Burundi
+Cambodia,Cambodia,TRUE,KH,12.565679,104.990963,TRUE,KH,Cambodia
+Cameroon,Cameroon,TRUE,CM,7.369722,12.354722,TRUE,CM,Cameroon
+Canada,Canada,TRUE,CA,56.130366,-106.346771,TRUE,CA,Canada
+Central African Republic,Central African Republic,TRUE,CF,6.611111,20.939444,TRUE,CF,Central African Republic
+Chad,Chad,TRUE,TD,15.454166,18.732207,TRUE,TD,Chad
+Chile,Chile,TRUE,CL,-35.675147,-71.542969,TRUE,CL,Chile
+China,China,TRUE,CN,35.86166,104.195397,TRUE,CN,China
+Colombia,Colombia,TRUE,CO,4.570868,-74.297333,TRUE,CO,Colombia
+Comoros,Comoros,TRUE,KM,-11.6455,43.3333,TRUE,KM,Comoros
+Costa Rica,Costa Rica,TRUE,CR,9.748917,-83.753428,TRUE,CR,Costa Rica
+Croatia,Croatia,TRUE,HR,45.1,15.2000001,TRUE,HR,Croatia
+Cyprus,Cyprus,TRUE,CY,35.126413,33.429859,TRUE,CY,Cyprus
+Czech Republic,Czechia,FALSE,CZ,49.817492,15.472962,TRUE,CZ,Czech Republic
+Democratic Republic of the Congo,Democratic Republic of the Congo,TRUE,CD,-4.038333,21.758664,TRUE,CD,Democratic Republic of the Congo
+Denmark,Denmark,TRUE,DK,56.26392,9.501785,TRUE,DK,Denmark
+Djibouti,Djibouti,TRUE,DJ,11.825138,42.590275,TRUE,DJ,Djibouti
+Dominican Republic,Dominican Republic,TRUE,DO,18.735693,-70.162651,TRUE,DO,Dominican Republic
+Ecuador,Ecuador,TRUE,EC,-1.831239,-78.183406,TRUE,EC,Ecuador
+Egypt,Egypt,TRUE,EG,26.820553,30.802498,TRUE,EG,Egypt
+El Salvador,El Salvador,TRUE,SV,13.794185,-88.89653,TRUE,SV,El Salvador
+Estonia,Estonia,TRUE,EE,58.595272,25.0136071,TRUE,EE,Estonia
+Ethiopia,Ethiopia,TRUE,ET,9.145,40.489673,TRUE,ET,Ethiopia
+Finland,Finland,TRUE,FI,61.92411,25.7481511,TRUE,FI,Finland
+France,France,TRUE,FR,46.227638,2.213749,TRUE,FR,France
+Gabon,Gabon,TRUE,GA,-0.803689,11.609444,TRUE,GA,Gabon
+Georgia,Georgia,TRUE,GA,32.1656221,-82.9000751,FALSE,GE,Georgia Country
+Germany,Germany,TRUE,DE,51.165691,10.451526,TRUE,DE,Germany
+Ghana,Ghana,TRUE,GH,7.946527,-1.023194,TRUE,GH,Ghana
+Greece,Greece,TRUE,GR,39.074208,21.824312,TRUE,GR,Greece
+Guatemala,Guatemala,TRUE,GT,15.783471,-90.230759,TRUE,GT,Guatemala
+Guinea,Guinea,TRUE,GN,9.945587,-9.696645,TRUE,GN,Guinea
+Haiti,Haiti,TRUE,HT,18.971187,-72.285215,TRUE,HT,Haiti
+Honduras,Honduras,TRUE,HN,15.199999,-86.241905,TRUE,HN,Honduras
+Hong Kong,Hong Kong,TRUE,HK,22.396428,114.109497,TRUE,HK,Hong Kong
+Hungary,Hungary,TRUE,HU,47.162494,19.5033041,TRUE,HU,Hungary
+Iceland,Iceland,TRUE,IS,64.963051,-19.020835,TRUE,IS,Iceland
+India,India,TRUE,IN,20.593684,78.96288,TRUE,IN,India
+Indonesia,Indonesia,TRUE,ID,-0.789275,113.921327,TRUE,ID,Indonesia
+Iran,Iran,TRUE,IR,32.427908,53.688046,TRUE,IR,Iran
+Iraq,Iraq,TRUE,IQ,33.223191,43.679291,TRUE,IQ,Iraq
+Ireland,Ireland,TRUE,Ireland,53.1423672,-7.6920536,FALSE,IE,Ireland
+Israel,Israel,TRUE,IL,31.046051,34.851612,TRUE,IL,Israel
+Italy,Italy,TRUE,IT,41.87194,12.56738,TRUE,IT,Italy
+Ivory Coast,Côte d'Ivoire,FALSE,CI,7.539989,-5.54708,TRUE,CI,Ivory Coast
+Jamaica,Jamaica,TRUE,JM,18.109581,-77.297508,TRUE,JM,Jamaica
+Japan,Japan,TRUE,JP,36.204824,138.252924,TRUE,JP,Japan
+Kazakhstan,Kazakhstan,TRUE,KZ,48.019573,66.923684,TRUE,KZ,Kazakhstan
+Kenya,Kenya,TRUE,KE,-0.023559,37.906193,TRUE,KE,Kenya
+Kingdom of Jordan,Jordan,FALSE,JO,30.585164,36.238414,TRUE,JO,Kingdom of Jordan
+Kosovo,Kosovo,TRUE,XK,42.6026359,20.902977,TRUE,XK,Kosovo
+Kuwait,Kuwait,TRUE,KW,29.31166,47.481766,TRUE,KW,Kuwait
+Kyrgyzstan,Kyrgyzstan,TRUE,KG,41.20438,74.766098,TRUE,KG,Kyrgyzstan
+Laos,Laos,TRUE,LA,19.85627,102.495496,TRUE,LA,Laos
+Latvia,Latvia,TRUE,LV,56.879635,24.603189,TRUE,LV,Latvia
+Lebanon,Lebanon,TRUE,LB,33.854721,35.862285,TRUE,LB,Lebanon
+Lesotho,Lesotho,TRUE,LS,-29.609988,28.233608,TRUE,LS,Lesotho
+Liberia,Liberia,TRUE,LR,6.428055,-9.429499,TRUE,LR,Liberia
+Libya,Libya,TRUE,LY,26.3351,17.228331,TRUE,LY,Libya
+Lithuania,Lithuania,TRUE,LT,55.169438,23.881275,TRUE,LT,Lithuania
+Luxembourg,Luxembourg,TRUE,LU,49.815273,6.129583,TRUE,LU,Luxembourg
+Macedonia,Macedonia (FYROM),FALSE,MK,41.608635,21.745275,TRUE,MK,Macedonia
+Madagascar,Madagascar,TRUE,MG,-18.766947,46.869107,TRUE,MG,Madagascar
+Malawi,Malawi,TRUE,MW,-13.254308,34.301525,TRUE,MW,Malawi
+Malaysia,Malaysia,TRUE,MY,4.210484,101.975766,TRUE,MY,Malaysia
+Mali,Mali,TRUE,ML,17.570692,-3.996166,TRUE,ML,Mali
+Malta,Malta,TRUE,MT,35.937496,14.375416,TRUE,MT,Malta
+Mauritania,Mauritania,TRUE,MR,21.00789,-10.940835,TRUE,MR,Mauritania
+Mauritius,Mauritius,TRUE,MU,-20.348404,57.552152,TRUE,MU,Mauritius
+Mexico,Mexico,TRUE,MX,23.634501,-102.552784,TRUE,MX,Mexico
+Moldova,Moldova,TRUE,MD,47.411631,28.369885,TRUE,MD,Moldova
+Mongolia,Mongolia,TRUE,MN,46.862496,103.846656,TRUE,MN,Mongolia
+Montenegro,Montenegro,TRUE,ME,42.708678,19.37439,TRUE,ME,Montenegro
+Morocco,Morocco,TRUE,MA,31.791702,-7.09262,TRUE,MA,Morocco
+Mozambique,Mozambique,TRUE,MZ,-18.665695,35.529562,TRUE,MZ,Mozambique
+Myanmar,Myanmar (Burma),FALSE,MM,21.916221,95.955974,TRUE,MM,Myanmar
+Namibia,Namibia,TRUE,NA,-22.95764,18.49041,TRUE,NA,Namibia
+Nepal,Nepal,TRUE,NP,28.394857,84.124008,TRUE,NP,Nepal
+Netherlands,Netherlands,TRUE,NL,52.132633,5.291266,TRUE,NL,Netherlands
+New Zealand,New Zealand,TRUE,NZ,-40.900557,174.885971,TRUE,NZ,New Zealand
+Nicaragua,Nicaragua,TRUE,NI,12.865416,-85.207229,TRUE,NI,Nicaragua
+Niger,Niger,TRUE,NE,17.607789,8.081666,TRUE,NE,Niger
+Nigeria,Nigeria,TRUE,NG,9.081999,8.675277,TRUE,NG,Nigeria
+Northern Cyprus,Northern Cyprus,TRUE,Northern Cyprus,35.2480359,33.6577243,FALSE,NF,Northern Cyprus
+Norway,Norway,TRUE,NO,60.472024,8.468946,TRUE,NO,Norway
+Oman,Oman,TRUE,OM,21.4735329,55.975413,TRUE,OM,Oman
+Pakistan,Pakistan,TRUE,PK,30.375321,69.345116,TRUE,PK,Pakistan
+Palestine,Palestine,TRUE,PS,31.952162,35.233154,TRUE,PS,Palestine
+Panama,Panama,TRUE,PA,8.537981,-80.782127,TRUE,PA,Panama
+Paraguay,Paraguay,TRUE,PY,-23.442503,-58.443832,TRUE,PY,Paraguay
+Peru,Peru,TRUE,PE,-9.189967,-75.015152,TRUE,PE,Peru
+Philippines,Philippines,TRUE,PH,12.879721,121.774017,TRUE,PH,Philippines
+Poland,Poland,TRUE,PL,51.919438,19.145136,TRUE,PL,Poland
+Portugal,Portugal,TRUE,PT,39.399872,-8.224454,TRUE,PT,Portugal
+Qatar,Qatar,TRUE,QA,25.354826,51.183884,TRUE,QA,Qatar
+Republic of the Congo,Republic of the Congo,TRUE,CG,-0.228021,15.827659,TRUE,CG,Republic of the Congo
+Romania,Romania,TRUE,RO,45.943161,24.96676,TRUE,RO,Romania
+Russia,Russia,TRUE,RU,61.52401,105.318756,TRUE,RU,Russia
+Rwanda,Rwanda,TRUE,RW,-1.940278,29.873888,TRUE,RW,Rwanda
+Saudi Arabia,Saudi Arabia,TRUE,SA,23.885942,45.079162,TRUE,SA,Saudi Arabia
+Senegal,Senegal,TRUE,SN,14.497401,-14.452362,TRUE,SN,Senegal
+Serbia,Serbia,TRUE,RS,44.016521,21.005859,TRUE,RS,Serbia
+Sierra Leone,Sierra Leone,TRUE,SL,8.460555,-11.779889,TRUE,SL,Sierra Leone
+Singapore,Singapore,TRUE,SG,1.352083,103.819836,TRUE,SG,Singapore
+Slovakia,Slovakia,TRUE,SK,48.669026,19.699024,TRUE,SK,Slovakia
+Slovenia,Slovenia,TRUE,SI,46.151241,14.995463,TRUE,SI,Slovenia
+Somalia,Somalia,TRUE,SO,5.152149,46.199616,TRUE,SO,Somalia
+South Africa,South Africa,TRUE,ZA,-30.559482,22.937506,TRUE,ZA,South Africa
+South Korea,South Korea,TRUE,KR,35.907757,127.766922,TRUE,KR,South Korea
+South Sudan,South Sudan,TRUE,SS,6.8769919,31.3069788,TRUE,SS,South Sudan
+Spain,Spain,TRUE,ES,40.463667,-3.74922,TRUE,ES,Spain
+Sri Lanka,Sri Lanka,TRUE,LK,7.873054,80.771797,TRUE,LK,Sri Lanka
+Sudan,Sudan,TRUE,SD,12.862807,30.217636,TRUE,SD,Sudan
+Suriname,Suriname,TRUE,SR,3.919305,-56.027783,TRUE,SR,Suriname
+Swaziland Country,Swaziland,FALSE,SZ,-26.522503,31.465866,TRUE,SZ,Swaziland Country
+Sweden,Sweden,TRUE,SE,60.128161,18.643501,TRUE,SE,Sweden
+Switzerland,Switzerland,TRUE,CH,46.818188,8.227512,TRUE,CH,Switzerland
+Syria,Syria,TRUE,SY,34.802075,38.996815,TRUE,SY,Syria
+Taiwan,Taiwan,TRUE,TW,23.69781,120.960515,TRUE,TW,Taiwan
+Tajikistan,Tajikistan,TRUE,TJ,38.861034,71.276093,TRUE,TJ,Tajikistan
+Tanzania,Tanzania,TRUE,TZ,-6.369028,34.888822,TRUE,TZ,Tanzania
+Thailand,Thailand,TRUE,TH,15.870032,100.992541,TRUE,TH,Thailand
+Togo,Togo,TRUE,TG,8.619543,0.824782,TRUE,TG,Togo
+Trinidad and Tobago,Trinidad and Tobago,TRUE,TT,10.691803,-61.222503,TRUE,TT,Trinidad and Tobago
+Tunisia,Tunisia,TRUE,TN,33.886917,9.537499,TRUE,TN,Tunisia
+Turkey,Turkey,TRUE,TR,38.963745,35.243322,TRUE,TR,Turkey
+Turkmenistan,Turkmenistan,TRUE,TM,38.969719,59.556278,TRUE,TM,Turkmenistan
+Uganda,Uganda,TRUE,UG,1.373333,32.290275,TRUE,UG,Uganda
+Ukraine,Ukraine,TRUE,UA,48.379433,31.1655799,TRUE,UA,Ukraine
+United Arab Emirates,United Arab Emirates,TRUE,AE,23.424076,53.847818,TRUE,AE,United Arab Emirates
+United Kingdom,United Kingdom,TRUE,GB,55.378051,-3.435973,TRUE,GB,United Kingdom
+United States,United States,TRUE,US,37.09024,-95.712891,TRUE,US,United States
+Uruguay,Uruguay,TRUE,UY,-32.522779,-55.765835,TRUE,UY,Uruguay
+Uzbekistan,Uzbekistan,TRUE,UZ,41.377491,64.585262,TRUE,UZ,Uzbekistan
+Venezuela,Venezuela,TRUE,VE,6.42375,-66.58973,TRUE,VE,Venezuela
+Vietnam,Vietnam,TRUE,VN,14.058324,108.277199,TRUE,VN,Vietnam
+Yemen,Yemen,TRUE,YE,15.552727,48.516388,TRUE,YE,Yemen
+Zambia,Zambia,TRUE,ZM,-13.133897,27.849332,TRUE,ZM,Zambia
+Zimbabwe,Zimbabwe,TRUE,ZW,-19.015438,29.154857,TRUE,ZW,Zimbabwe
