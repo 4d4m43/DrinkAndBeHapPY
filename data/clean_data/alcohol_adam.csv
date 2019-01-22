@@ -578,17 +578,12 @@ MM,Myanmar,Data source,All types,,1.6,1.78,1.67,1.36,1.09,0.97
 MM,Myanmar,Data source,Beer,,0.36,0.59,0.46,0.36,0.17,0.15
 MM,Myanmar,Data source,Wine,,0.16,0.15,0.18,0,0,0
 MM,Myanmar,Data source,Spirits,,1.08,1.04,1.03,1,0.92,0.82
-MM,Myanmar,Data source,Other alcoholic beverages,,0,0,0,0,0,0
+MM,Myanmar,Data source,Other alcoholic beverages,,0.01,0.01,0.01,0.01,0.01,0.01
 NA,Namibia,Data source,All types,,7.83,7.83,7.83,6.34,7.71,7.44
 NA,Namibia,Data source,Beer,,4.71,4.71,4.71,4.67,7.3,7.16
 NA,Namibia,Data source,Wine,,0.81,0.81,0.81,0.59,0.06,0.06
 NA,Namibia,Data source,Spirits,,1.08,1.08,1.08,0.84,0.21,0.07
 NA,Namibia,Data source,Other alcoholic beverages,,1.22,1.22,1.22,0.24,0.14,0.15
-NR,Nauru,,All types,,,,2.54,3.64,4.44,4.66
-NR,Nauru,,Beer,,,,0.56,0.5,1.82,1.83
-NR,Nauru,,Wine,,,,0.09,0.23,0.06,0.25
-NR,Nauru,,Spirits,,,,1.88,2.91,2.56,2.58
-NR,Nauru,,Other alcoholic beverages,,,,,0,0,0
 NR,Nauru,Data source,All types,,,,2.54,3.64,4.44,4.66
 NR,Nauru,Data source,Beer,,,,0.56,0.5,1.82,1.83
 NR,Nauru,Data source,Wine,,,,0.09,0.23,0.06,0.25
